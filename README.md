@@ -28,7 +28,4 @@
 4. 系统测试
 5. 系统部署
 
-### case1 场地预定系统
-
-- 需求见 case1-1.png、case1-2.png
-- 系统框架使用 Python flask 框架 + MySQL
+### [case1 场地预定系统](case1/README.md)
