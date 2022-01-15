@@ -2,6 +2,8 @@
 
 **Web从零开始**
 
+## [一些书的资源](https://github.com/justjavac/free-programming-books-zh_CN)
+
 ---
 
 ### 通用知识

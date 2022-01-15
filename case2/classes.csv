@@ -1,0 +1,740 @@
+﻿School Level,Class ID,Description,Teacher,Room,Student Counts,Status,Meeting Times,Term Credit Hours
+Upper School,DIS Pottery/Ceramics,DIS Pottery and Ceramics,"Chu Marvill, Heather",S-200,1 (M: 1),Active,D1-US-F,0.25
+Upper School,HIS433-1,Europe: WW II and Beyond (Sem 2),"Tomczuk, Jamie",A-20,"20 (M: 18, F: 2)",Future,D1D3D5D6D8-US-H,0.5
+Upper School,HIS451-1,The Modern Middle East,"Tomczuk, Jamie",A-20,"18 (M: 15, F: 3)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,HIS500-3,African American History-3,"Dawson, Jacqueline",A-20,"13 (M: 9, F: 4)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,HIS500-2,African American History-2,"Dawson, Jacqueline",A-20,"14 (M: 5, F: 9)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,HIS500-4,African American History-4,"Tomczuk, Jamie",A-20,"17 (M: 10, F: 7)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,HIS500-5,African American History-5,"Tomczuk, Jamie",A-20,"15 (M: 9, F: 6)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,HIS500-6,African American History-6,"Tomczuk, Jamie",A-20,"19 (M: 8, F: 11)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,Italian II (DIS Mino,Italian II (DIS Minor),"Pisone, Pamela",A-20,"4 (M: 2, F: 2)",Active,D1D5-US-D,0.25
+Upper School,Italian III (DIS Min,Italian III (DIS Minor),"Pisone, Pamela",A-20,"3 (M: 2, F: 1)",Active,D4D7-US-D,0.25
+Upper School,ADV 12-13,US Advisory 12-13,"Tomczuk, Jamie",A-20,"8 (M: 4, F: 4)",Active,M-Advsy,0
+Upper School,HR 12-13,US Homeroom 12-13,"Tomczuk, Jamie",A-20,"8 (M: 4, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 9-12,US Homeroom 9-12,"Sullivan, Samuel",A-21,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,German 4 (DIS Minor),German 4 (DIS Minor),"Kappel, Sarah",A-21,"3 (M: 1, F: 2)",Active,T:2:15 - 3:30,0.25
+Upper School,GOA Checkin-A 3,GOA Checkin-A 3,"Lee, Andrew",A-21,2 (F: 2),Active,D3-US-I,0
+Upper School,GOA Checkin-A 4,GOA Checkin-A 4,"Lee, Andrew",A-21,"4 (M: 2, F: 2)",Active,D4-US-I,0
+Upper School,GOA Checkin-A 7,GOA Checkin-A 7,"Lee, Andrew",A-21,"4 (M: 2, F: 2)",Active,D7-US-I,0
+Upper School,GOA Checkin-A 8,GOA Checkin-A 8,"Lee, Andrew",A-21,1 (F: 1),Active,D8-US-I,0
+Upper School,Study Lab 9-2,Study Lab 9-2,"Dudurich, Jedi",A-21,"12 (M: 6, F: 6)",Active,D6-US-F,0
+Upper School,Study Lab 9-3,Study Lab 9-3,"Kushner, Joy",A-21,"14 (M: 6, F: 7, NB: 1)",Active,D4-US-G,0
+Upper School,Study Lab 9-6,Study Lab 9-6,"Charme-Zane, Sara",A-21,"12 (M: 6, F: 6)",Active,D2-US-G,0
+Upper School,Study Lab 9-8,Study Lab 9-8,"Sullivan, Samuel",A-21,"11 (M: 7, F: 4)",Active,D1-US-F,0
+Upper School,GOA Checkin-A 1,GOA Checkin-A 1,"Lee, Andrew",A-21,"3 (M: 1, F: 2)",Active,D1-US-I,0
+Upper School,GOA Checkin-A 5,GOA Checkin-A 5,"Lee, Andrew",A-21,1 (F: 1),Active,D5-US-I,0
+Upper School,ADV 9-12,US Advisory 9-12,"Sullivan, Samuel",A-21,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,HIS500-7,African American History-7,"Lee, Andrew",A-21,"14 (M: 6, F: 8)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,ENG510-3,English 11-3,"Sullivan, Samuel",A-21,"18 (M: 10, F: 8)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,HIS500-1,African American History-1,"Lee, Andrew",A-21,"14 (M: 7, F: 7)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,ENG650-1,Style Fundamentals-1,"Sullivan, Samuel",A-21,"14 (M: 6, F: 8)",Active,D3-US-F,0.25
+Upper School,ENG650-2,Style Fundamentals-2,"Sullivan, Samuel",A-21,"13 (M: 8, F: 5)",Active,D3-US-C,0.25
+Upper School,ENG650-3,Style Fundamentals-3,"Sullivan, Samuel",A-21,"14 (M: 5, F: 9)",Active,D7-US-G,0.25
+Upper School,ENG650-7,Style Fundamentals-7,"Sullivan, Samuel",A-21,"17 (M: 8, F: 7, NB: 2)",Future,D7-US-G,0.25
+Upper School,GOA Checkin-B 3,GOA Checkin-B 3,"Lee, Andrew",A-21,"2 (M: 1, F: 1)",Future,D3-US-I,0
+Upper School,GOA Checkin-B 4,GOA Checkin-B 4,"Lee, Andrew",A-21,"3 (M: 1, F: 2)",Future,D4-US-I,0
+Upper School,GOA Checkin-B 7,GOA Checkin-B 7,"Lee, Andrew",A-21,"3 (M: 1, F: 2)",Future,D7-US-I,0
+Upper School,GOA Checkin-B 8,GOA Checkin-B 8,"Lee, Andrew",A-21,2 (F: 2),Future,D8-US-I,0
+Upper School,GOA Checkin-B 1,GOA Checkin-B 1,"Lee, Andrew",A-21,"3 (M: 1, F: 2)",Future,D1-US-I,0
+Upper School,GOA Checkin-B 5,GOA Checkin-B 5,"Lee, Andrew",A-21,"2 (M: 1, F: 1)",Future,D5-US-I,0
+Upper School,ENG650-5,Style Fundamentals-5,"Sullivan, Samuel",A-21,"11 (M: 7, F: 4)",Future,D3-US-C,0.25
+Upper School,ENG650-6,Style Fundamentals-6,"Sullivan, Samuel",A-21,"15 (M: 6, F: 9)",Future,D3-US-F,0.25
+Upper School,DIS Territory/Colony,DIS Territory or Colony,"Preetam, Aaron",A-22,1 (M: 1),Active,D1-US-C,0.25
+Upper School,AP US Hist,AP US Hist,"Preetam, Aaron",A-22,1 (M: 1),Active,D4-US-I,0
+Upper School,HIS482,Genocide and Human Rights,"Preetam, Aaron",A-22,"20 (M: 11, F: 9)",Future,D1D3D5D6D8-US-H,0.5
+Upper School,HIS471-1,African American Studies,"Preetam, Aaron",A-22,"20 (M: 11, F: 9)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,HIS620-4,US History: Adv.-4,"Preetam, Aaron",A-22,"17 (M: 11, F: 6)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,HIS620-5,US History: Adv.-5,"Preetam, Aaron",A-22,"11 (M: 6, F: 5)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,FILMFESTD-1,Film Fest Dir,"Kappel, Sarah",A-22,"4 (M: 2, F: 2)",Active,D3-US-F,0
+Upper School,FILMFEST-1,Film Fest,"Kappel, Sarah",A-22,"11 (M: 7, F: 4)",Active,D5-US-I,0
+Upper School,ADV 10-8,US Advisory 10-8,"Preetam, Aaron",A-22,"8 (M: 5, F: 3)",Active,M-Advsy,0
+Upper School,YEARBOOK,Yearbook,"Waldman, Jeffrey",A-22,2 (F: 2),Active,D6-US-C,0
+Upper School,Study Lab 9-1,Study Lab 9-1,"O'Donnell, Geo",A-22,"7 (M: 4, F: 3)",Active,D5-US-B,0
+Upper School,HR 10-8,US Homeroom 10-8,"Preetam, Aaron",A-22,"8 (M: 5, F: 3)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 10-1,US Homeroom 10-1,"Ceccatti, John",A-23,"9 (M: 7, F: 2)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 10-1,US Advisory 10-1,"Ceccatti, John",A-23,"9 (M: 7, F: 2)",Active,M-Advsy,0
+Upper School,HIS620-6,US History: Adv.-6,"Ceccatti, John",A-23,"17 (M: 11, F: 6)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,SEM230-2,New Students 9-2,"Hogan, Callie",A-23,"9 (M: 6, F: 3)",Active,D4-US-G,0
+Upper School,SEM230-3,New Students 9-3,"Hogan, Callie",A-23,"8 (M: 4, F: 4)",Active,D5-US-G,0
+Upper School,HIS474-1,History of Science: Origins of Mod Science (Sem 1),"Ceccatti, John",A-23,"20 (M: 10, F: 10)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,ENG410-7,English 10-7,"McGeary, Joseph",A-23,"14 (M: 6, F: 8)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,HIS620-1,US History: Adv.-1,"Ceccatti, John",A-23,"18 (M: 9, F: 9)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,HIS620-2,US History: Adv.-2,"Ceccatti, John",A-23,"17 (M: 9, F: 8)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,HIS620-3,US History: Adv.-3,"Ceccatti, John",A-23,"18 (M: 9, F: 9)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,ART860-1,Digital Art,"Zwerling, Sarah",A-23,0,Active,,0.25
+Upper School,HIS473-1,History of Science: Biology from Darwin to DNA (Sem 2),"Ceccatti, John",A-23,"20 (M: 7, F: 13)",Future,D1D3D5D6D8-US-H,0.5
+Upper School,HIS462-1,Modern U.S. Political Ideologies and Issues: Adv. (Sem),"Oxholm, Theodor",A-24,"20 (M: 11, F: 9)",Future,D1D3D5D6D8-US-H,0.5
+Upper School,HIS310-1,Comparative Cultures-1,"Oxholm, Theodor",A-24,"17 (M: 8, F: 8, NB: 1)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,HIS310-2,Comparative Cultures-2,"Oxholm, Theodor",A-24,"16 (M: 10, F: 5, NB: 1)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,HIS310-3,Comparative Cultures-3,"Thacker, Samuel",A-24,"18 (M: 6, F: 12)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,HIS310-4,Comparative Cultures-4,"Thacker, Samuel",A-24,"18 (M: 11, F: 7)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,HIS310-5,Comparative Cultures-5,"Thacker, Samuel",A-24,"14 (M: 5, F: 9)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,HIS310-6,Comparative Cultures-6,"Thacker, Samuel",A-24,"12 (M: 9, F: 3)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,HIS431-1,United States Government & Civics,"Oxholm, Theodor",A-24,"18 (M: 10, F: 8)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,HIS310-7,Comparative Cultures-7,"Oxholm, Theodor",A-24,"19 (M: 8, F: 11)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,ADV 9-13,US Advisory 9-13,"Thacker, Samuel",A-24,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,HR 9-13,US Homeroom 9-13,"Thacker, Samuel",A-24,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 10-6,US Advisory 10-6,"Oxholm, Theodor",A-25 History Office,"9 (M: 4, F: 5)",Active,M-Advsy,0
+Upper School,HR 10-6,US Homeroom 10-6,"Oxholm, Theodor",A-25 History Office,"9 (M: 4, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 9-2,US Homeroom 9-2,"Culp, Megan",A-3,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 9-2,US Advisory 9-2,"Culp, Megan",A-3,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,ART830-3,Color & Design-3,"Culp, Megan",A-3,"7 (M: 1, F: 6)",Active,D2D3D5D8-US-B,0.25
+Upper School,ART610-2,Senior Studio: Advanced-2,"Culp, Megan",A-3,"11 (M: 3, F: 8)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,ART830-1,Color & Design-1,"Culp, Megan",A-3,"5 (M: 1, F: 4)",Active,D1D5D6D8-US-H,0.25
+Upper School,ART310-4,Foundation of Art-4,"Hoffman, Debra",A-3,"12 (M: 9, F: 3)",Active,D1D6D8-US-C,0.25
+Upper School,ART310-5,Foundation of Art-5,"Charme-Zane, Sara",A-6,"14 (M: 9, F: 4, NB: 1)",Active,D3D6D7-US-F,0.25
+Upper School,ART310-6,Foundation of Art-6,"Wood, Jared",A-6,"11 (M: 1, F: 9, NB: 1)",Active,D1D2D6-US-A,0.25
+Upper School,ART310-7,Foundation of Art-7,"Charme-Zane, Sara",A-6,"13 (M: 5, F: 8)",Active,D4D7D8-US-G,0.25
+Upper School,ART310-8,Foundation of Art-8,"Charme-Zane, Sara",A-6,"14 (M: 7, F: 7)",Active,D2D4D7-US-D,0.25
+Upper School,ART310-1,Foundation of Art-1,"Hoffman, Debra",A-6,"14 (M: 7, F: 7)",Active,D2D3D8-US-E,0.25
+Upper School,ART310-2,Foundation of Art-2,"Hoffman, Debra",A-6,"13 (M: 7, F: 6)",Active,D3D5D6-US-H,0.25
+Upper School,ART731-1,"Art History: Nature, Spirit and Religion","Charme-Zane, Sara",A-6,"9 (M: 3, F: 6)",Active,D1D4D8-US-C,0.25
+Upper School,ADV 9-1,US Advisory 9-1,"Charme-Zane, Sara",A-6,"9 (M: 3, F: 5, NB: 1)",Active,M-Advsy,0
+Upper School,HR 9-1,US Homeroom 9-1,"Charme-Zane, Sara",A-6,"9 (M: 3, F: 5, NB: 1)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 12-10,US Advisory 12-10,"Rawlings, Maryanne",Hargroves Lobby/Cafe,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,HR 12-10,US Homeroom 12-10,"Rawlings, Maryanne",Hargroves Lobby/Cafe,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 10-7,US Homeroom 10-7,"Pigeon, Colin",Hargroves Lobby/Cafe,"9 (M: 4, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 10-7,US Advisory 10-7,"Pigeon, Colin",Hargroves Lobby/Cafe,"9 (M: 4, F: 5)",Active,M-Advsy,0
+Upper School,MOD760-4,Spanish Tutorial-4,"Dudurich, Jedi",Hargroves Lobby/Cafe,1 (M: 1),Active,D2-US-A,0
+Upper School,DIS Span Convo,Spanish Conversation (DIS Minor),"Bradburd, Rachel",Hargroves Lobby/Cafe,2 (F: 2),Active,D4-US-F,0.25
+Upper School,DIS Documentary Film,DIS Documentary Film,"Kappel, Sarah",Hargroves Lobby/Cafe,1 (M: 1),Active,D8-US-G,0.25
+Upper School,CCT Mtg,CCT Mtg,"Stevens, Craig",HC-200,0,Active,D3-US-C,0
+Upper School,MTH915-6,Math Tutorial-6,"Saracino, Allie",HC-200,1 (M: 1),Active,D3-US-B,0
+Upper School,MTH900-7,Math Center-7,"Saracino, Allie",HC-200,1 (F: 1),Active,D7-US-A,0
+Upper School,THT792-1,"Light, Sound, & Production Design","Waldman, Jeffrey",HC-200,"5 (M: 4, F: 1)",Future,D1D4D7-US-F,0.25
+Upper School,ADV 9-3,US Advisory 9-3,"DiPasquale, Dan",HC-200,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,HR 9-3,US Homeroom 9-3,"DiPasquale, Dan",HC-200,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,A/W Support AY,A/W Support AY,"Brock, Caroline",HC-200,1 (M: 1),Active,D2D8-US-G,0
+Upper School,A/W Support OJ,A/W Support OJ,"Brock, Caroline",HC-200,1 (M: 1),Active,D2D5-US-B,0
+Upper School,MTH610-1,Functions & Trigonometry,"DiPasquale, Dan",HC-200,"6 (M: 3, F: 3)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,THT751-1,Film Editing & Post-Production,"Waldman, Jeffrey",HC-200,"6 (M: 4, F: 2)",Active,D1D4D7-US-F,0.25
+Upper School,Grade Deans Mtg,US Grade Deans Mtg,"Young, Matthew",HC-200,0,Active,,0
+Upper School,SEM320-1,Comics Studies,"Waldman, Jeffrey",HC-200,"6 (M: 4, F: 2)",Active,D2D3D5D6D8-US-E,0.25
+Upper School,MTH730-3,Integral Calculus-3,"Ramsey, Devra",HC-201,"14 (M: 6, F: 8)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,MOD320-3,French II-3,"Bartholomew, Elias",HC-201,"12 (M: 5, F: 7)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,MTH720-1,Calculus-1,"Ramsey, Devra",HC-201,"19 (M: 8, F: 11)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,MTH720-2,Calculus-2,"Ramsey, Devra",HC-201,"15 (M: 10, F: 5)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,MTH730-1,Integral Calculus-1,"Ramsey, Devra",HC-201,"17 (M: 7, F: 10)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,MTH730-2,Integral Calculus-2,"Ramsey, Devra",HC-201,"18 (M: 11, F: 7)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,MOD320-1,French II-1,"Bartholomew, Elias",HC-201,"15 (M: 7, F: 8)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,MOD320-2,French II-2,"Bartholomew, Elias",HC-201,"12 (M: 4, F: 8)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,HR 10-9,US Homeroom 10-9,"Ramsey, Devra",HC-201,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 10-9,US Advisory 10-9,"Ramsey, Devra",HC-201,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,Lang Lab French 2-1,Lang Lab French 2-1,"Bartholomew, Elias",HC-201,"11 (M: 5, F: 6)",Active,D1-US-I,0
+Upper School,Lang Lab French 2-2,Lang Lab French 2-2,"Bartholomew, Elias",HC-201,"11 (M: 5, F: 6)",Active,D3-US-I,0
+Upper School,Lang Lab French 2-3,Lang Lab French 2-3,"Bartholomew, Elias",HC-201,"16 (M: 5, F: 11)",Active,D7-US-I,0
+Upper School,HR 12-9,US Homeroom 12-9,"Quant, Elena",HC-204,"8 (M: 3, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 12-9,US Advisory 12-9,"Quant, Elena",HC-204,"8 (M: 3, F: 5)",Active,M-Advsy,0
+Upper School,MTH620-1,Precalculus-1,"Ashcroft, Kayla",HC-204,"19 (M: 10, F: 9)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,MTH620-2,Precalculus-2,"Ashcroft, Kayla",HC-204,"13 (M: 6, F: 7)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,MTH630-1,Differential Calculus-1,"Ashcroft, Kayla",HC-204,"14 (M: 9, F: 5)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,MTH630-2,Differential Calculus-2,"Ashcroft, Kayla",HC-204,"12 (M: 6, F: 6)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,MTH630-3,Differential Calculus-3,"Ashcroft, Kayla",HC-204,"17 (M: 10, F: 7)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,MTH710-1,Applications in Statistics-1,"Quant, Elena",HC-204,"10 (M: 3, F: 7)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,MTH710-2,Applications in Statistics-2,"Quant, Elena",HC-204,"17 (M: 12, F: 5)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,MTH810-1,Accelerated Statistics-1,"Quant, Elena",HC-204,"14 (M: 9, F: 5)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,MTH915-5,Math Tutorial-5,"Saracino, Allie",HC-205,1 (M: 1),Active,D6-US-H,0
+Upper School,DIS Japanese-1,Japanese (DIS Minor)-1,"Komura, Nobuko",HC-205,1 (M: 1),Active,D2D5-US-B,0.25
+Upper School,ADV 12-1,US Advisory 12-1,"Ashcroft, Kayla",HC-205,"8 (M: 4, F: 4)",Active,M-Advsy,0
+Upper School,HR 12-1,US Homeroom 12-1,"Ashcroft, Kayla",HC-205,"8 (M: 4, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,DIS ASL 2,DIS ASL 2,"Volpe, Marcia",HC-205,2 (F: 2),Active,D1-US-H,0.25
+Upper School,DIS ASL 3,DIS ASL 3,"Volpe, Marcia",HC-205,3 (F: 3),Active,D1D7-US-A,0.25
+Upper School,Study Lab 9-10,Study Lab 9-10,"Bartholomew, Elias",HC-205,4 (F: 4),Active,D8-US-B,0
+Upper School,Study Lab 9-12,Study Lab 9-12,"Gondi, June",HC-205,"7 (M: 5, F: 2)",Active,D4-US-C,0
+Upper School,MTH910-1,Math Center 10-1,"Lapowsky, Susan",HC-205,1 (M: 1),Active,D3-US-C,0
+Upper School,MTH910-3,Math Center 10-3,"Lapowsky, Susan",HC-205,2 (M: 2),Active,D7-US-F,0
+Upper School,MTH900-1,Math Center 9-1,"Ashcroft, Kayla",HC-205,1 (M: 1),Active,D3-US-E,0
+Upper School,MTH900-2,Math Center 9-2,"Kim, Chan",HC-205,5 (F: 5),Active,D6-US-F,0
+Upper School,MTH900-3,Math Center 9-3,"Ramsey, Devra",HC-205,"3 (M: 1, F: 2)",Active,D3-US-H,0
+Upper School,MTH900-4,Math Center 9-4,"Mraz, David",HC-205,1 (F: 1),Active,D5-US-B,0
+Upper School,DIS Japanese 3/4,DIS Japanese 3/4,"Komura, Nobuko",HC-205,"2 (M: 1, F: 1)",Active,D2D6-US-A,0.25
+Upper School,Arabic II (DIS Minor,Arabic II (DIS Minor),"Ahmed, Mohamed",HC-205,"4 (M: 2, F: 2)",Active,T:11:00 - 11:50,0.25
+Upper School,MTH915-7,Math Tutorial-7,"Saracino, Allie",HC-205,1 (F: 1),Active,D4D8-US-I,0
+Upper School,MTH910-9,Math Center 10-9,"Saracino, Allie",HC-205,1 (F: 1),Active,D4-US-A,0
+Upper School,MTH910-10,Math Center 10-10,"Saracino, Allie",HC-205,1 (F: 1),Active,D8-US-C,0
+Upper School,MTH910-8,Math Center 10-8,"Saracino, Allie",HC-205,1 (M: 1),Active,D7-US-B,0
+Upper School,MTH900-5,Math Center 9-5,"Saracino, Allie",HC-205,1 (M: 1),Active,D5-US-G,0
+Upper School,MTH910-4,Math Center 10-4,"Saracino, Allie",HC-205,1 (F: 1),Active,D4-US-G,0
+Upper School,MTH910-5,Math Center 10-5,"Saracino, Allie",HC-205,1 (F: 1),Active,D2D6-US-I,0
+Upper School,MTH910-6,Math Center 10-6,"Saracino, Allie",HC-205,1 (F: 1),Active,D3-US-F,0
+Upper School,MTH910-7,Math Center 10-7,"Saracino, Allie",HC-205,1 (M: 1),Active,D6-US-C,0
+Upper School,DIS Japanese-2,DIS Japanese-2,"Komura, Nobuko",HC-205,1 (F: 1),Active,T:2:15 - 3:30,0.25
+Upper School,Math Center 10-2,Math Center 10-2,"Saracino, Allie",HC-205,1 (M: 1),Active,D6-US-E,0
+Upper School,Math Center 10-1,Math Center 10-1,"Saracino, Allie",HC-205,2 (F: 2),Active,D1-US-D,0
+Upper School,MTH910-2,Math Center 10-2,"Lapowsky, Susan",HC-206,1 (M: 1),Active,D2D5-US-I,0
+Upper School,ADV 9-10,US Advisory 9-10,"Ross, Anne",HC-206,"9 (M: 4, F: 5)",Active,M-Advsy,0
+Upper School,HR 9-10,US Homeroom 9-10,"Ross, Anne",HC-206,"9 (M: 4, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,MTH520-1,Algebra II-1,"DiPasquale, Dan",HC-206,"16 (M: 6, F: 10)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,MTH520-2,Algebra II-2,"DiPasquale, Dan",HC-206,"15 (M: 5, F: 10)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,MTH520-3,Algebra II-3,"DiPasquale, Dan",HC-206,"15 (M: 10, F: 5)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,MTH520-4,Algebra II-4,"Kim, Chan",HC-206,"13 (M: 7, F: 6)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,MTH620-3,Precalculus-3,"Quant, Elena",HC-206,"17 (M: 10, F: 7)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,MTH420-2,Geometry-2,"Lazorko, Jared",HC-206,"17 (M: 4, F: 13)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,MTH420-3,Geometry-3,"Lazorko, Jared",HC-206,"15 (M: 7, F: 7, NB: 1)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,MTH420-4,Geometry-4,"Lazorko, Jared",HC-206,"15 (M: 6, F: 8, NB: 1)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,ENG410-3,English 10-3,"James, Madeline",L-210,"14 (M: 9, F: 5)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,ENG410-4,English 10-4,"James, Madeline",L-210,"12 (M: 6, F: 6)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,THT760-1,Filmmaking: The Picture is the Thing: Advanced,"Lee, André",L-210,6 (M: 6),Active,"D2D6-US-A, D6-US-I",0.25
+Upper School,THT750-1,Introduction to Filmmaking-1,"Lee, André",L-210,"8 (M: 7, F: 1)",Active,"D1-US-D, D1-US-I, D4-US-D",0.25
+Upper School,THT750-2,Introduction to Filmmaking-2,"Lee, André",L-210,"8 (M: 7, F: 1)",Active,"D2D7-US-B, D7-US-I",0.25
+Upper School,ENG510-6,English 11-6,"Sullivan, Samuel",L-210,"16 (M: 8, F: 8)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,ENG610-5,English 12-5,"Hotek, Adam",L-210,"16 (M: 9, F: 7)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,ADV 11-1,US Advisory 11-1,"Guevarez, Alexander",L-210,"8 (M: 4, F: 4)",Active,M-Advsy,0
+Upper School,HR 11-1,US Homeroom 11-1,"Guevarez, Alexander",L-210,"8 (M: 4, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,Study Lab 9-5,Study Lab 9-5,"Miller, Jake",L-210,"9 (M: 4, F: 4, NB: 1)",Active,D4-US-A,0
+Upper School,HR 11-6,US Homeroom 11-6,"McGeary, Joseph",L-212,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 11-6,US Advisory 11-6,"McGeary, Joseph",L-212,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,ENG610-4,English 12-4,"Lu, Di",L-212,"13 (M: 7, F: 6)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,ENG510-2,English 11-2,"Lu, Di",L-212,"16 (M: 8, F: 8)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,ENG510-4,English 11-4,"Lu, Di",L-212,"15 (M: 8, F: 7)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,ENG440-1,Magazine Journalism,"Ragas, Meg",L-212,"16 (M: 4, F: 12)",Active,D1D4D8-US-C,0.25
+Upper School,ENG610-7,English 12-7,"Lu, Di",L-212,"12 (M: 4, F: 8)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,ENG700-1,Poetry Workshop-1,"Sullivan, Samuel",L-212,"11 (M: 6, F: 5)",Active,D3D7D8-US-B,0.25
+Upper School,ENG700-2,Poetry Workshop-2,"Sullivan, Samuel",L-212,"10 (M: 4, F: 6)",Active,D2D4D7-US-D,0.25
+Upper School,ENG410-5,English 10-5,"McGeary, Joseph",L-214,"16 (M: 11, F: 5)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,ENG410-6,English 10-6,"McGeary, Joseph",L-214,"18 (M: 7, F: 11)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,ENG310-1,English 9-1,"Miller, Carol",L-214,"17 (M: 9, F: 8)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,ENG310-2,English 9-2,"Hotek, Adam",L-214,"17 (M: 12, F: 5)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,ENG310-3,English 9-3,"Hotek, Adam",L-214,"15 (M: 4, F: 11)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,SEM300-1,Underground Railroad,"McGeary, Joseph",L-214,"8 (M: 6, F: 2)",Active,D1D2D4D6D7-US-A,0.25
+Upper School,ENG610-6,English 12-6,"Hotek, Adam",L-214,"18 (M: 10, F: 8)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,ENG510-1,English 11-1,"Levin, Alex",L-214,"17 (M: 11, F: 6)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,ADV 11-2,US Advisory 11-2,"Hotek, Adam",L-214,"9 (M: 4, F: 5)",Active,M-Advsy,0
+Upper School,HR 11-2,US Homeroom 11-2,"Hotek, Adam",L-214,"9 (M: 4, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 12-3,US Homeroom 12-3,"Friedman, Robin",L-215,"8 (M: 3, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 12-3,US Advisory 12-3,"Friedman, Robin",L-215,"8 (M: 3, F: 5)",Active,M-Advsy,0
+Upper School,ENG610-1,English 12-1,"Friedman, Robin",L-215,"18 (M: 8, F: 10)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,ENG610-2,English 12-2,"Friedman, Robin",L-215,"18 (M: 11, F: 7)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,ENG610-3,English 12-3,"Friedman, Robin",L-215,"13 (M: 6, F: 7)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,ENG510-5,English 11-5,"Levin, Alex",L-215,"14 (M: 7, F: 7)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,HEA520-1,Public Health and Modern Society,"Aurelien, Eric",L-215,"17 (M: 9, F: 8)",Active,D2D6D7-US-A,0.25
+Upper School,ENG310-5,English 9-5,"Levin, Alex",L-215,"18 (M: 12, F: 5, NB: 1)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,ENG310-6,English 9-6,"James, Madeline",L-215,"15 (M: 6, F: 8, NB: 1)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,ENG310-7,English 9-7,"James, Madeline",L-215,"15 (M: 8, F: 7)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,DIS Multimed Collage,DIS Multimedia Collage,"Sullivan, Samuel",L-215,1 (F: 1),Active,D4-US-I,0.25
+Upper School,ART920-1,Photography II-1,"Koehler, Michael",M-301,"11 (M: 5, F: 6)",Active,"D2-US-E, D2-US-I, D5D8-US-E",0.25
+Upper School,ART920-2,Photography II-2,"Koehler, Michael",M-301,"11 (M: 5, F: 6)",Active,"D1D3-US-F, D3-US-I, D6-US-F",0.25
+Upper School,ART850-1,Photography I-1,"Koehler, Michael",M-301,"11 (M: 8, F: 3)",Active,"D1-US-D, D1-US-I, D4D7-US-D",0.25
+Upper School,ART850-2,Photography I-2,"Koehler, Michael",M-301,"11 (M: 8, F: 3)",Active,"D3D6D8-US-C, D8-US-I",0.25
+Upper School,ART850-3,Photography I-3,"Koehler, Michael",M-301,"9 (M: 5, F: 4)",Active,"D1D5-US-H, D5-US-I, D6-US-H",0.25
+Upper School,HR 10-2,US Homeroom 10-2,"Koehler, Michael",M-301,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ART920-3,Photography II-3,"Koehler, Michael",M-301,"2 (M: 1, F: 1)",Active,"D1D3D6-US-F, D6-US-I",0.25
+Upper School,ADV 10-2,US Advisory 10-2,"Koehler, Michael",M-301,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,ADV 10-10,US Advisory 10-10,"Solomon, Alyson",W-104,"9 (M: 3, F: 6)",Active,M-Advsy,0
+Upper School,HR 10-10,US Homeroom 10-10,"Solomon, Alyson",W-104,"9 (M: 3, F: 6)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,SCI800-1,Human Anatomy & Physiology-1,"Young, Matthew",W-104,"13 (M: 6, F: 7)",Active,D4D5D8-US-G,0.25
+Upper School,SCI800-2,Human Anatomy & Physiology-2,"Weeks, Dana",W-104,"16 (M: 4, F: 12)",Active,D1D3D4-US-F,0.25
+Upper School,SEM950-1,Social Justice Dialogue,"Palmer, Michelle",W-104,"5 (M: 3, F: 2)",Active,D1D6-US-H,0.25
+Upper School,SCI750-1,Advanced Biology-1,"Nelson, Genevieve",W-104,"22 (M: 11, F: 11)",Active,"D2-US-E, D2-US-I, D3-US-E, D3-US-I, D5D6D8-US-E",0.5
+Upper School,SCI750-2,Advanced Biology-2,"Solomon, Alyson",W-104,"19 (M: 9, F: 10)",Active,"D1-US-C, D1-US-I, D3D4D6D8-US-C, D8-US-I",0.5
+Upper School,SCI750-3,Advanced Biology-3,"Nelson, Genevieve",W-104,"20 (M: 8, F: 12)",Active,"D1D2D4D6-US-A, D6-US-I, D7-US-A, D7-US-I",0.5
+Upper School,PE603-1,Vinyasa Yoga (Winter),"Erz, Anya",W-104,"21 (M: 1, F: 20)",Active,"T:3:15 - 4:15, R:3:45 - 4:45",0.25
+Upper School,HEA401-1,Health Education 10-1,"Mower, Randall",W-104,"14 (M: 8, F: 6)",Active,D2D5-US-B,0.25
+Upper School,HEA401-2,Health Education 10-2,"Mower, Randall",W-104,"14 (M: 5, F: 9)",Active,D3D7-US-B,0.25
+Upper School,HEA401-3,Health Education 10-3,"Mower, Randall",W-104,"14 (M: 9, F: 5)",Active,D8-US-B,0.25
+Upper School,HEA401-4,Health Education 10-4,"Rawlings, Maryanne",W-104,"21 (M: 12, F: 9)",Active,D2D5-US-D,0
+Upper School,HEA401-5,Health Education 10-5,"Rawlings, Maryanne",W-104,"21 (M: 11, F: 10)",Active,D1-US-D,0
+Upper School,HEA401-6,Health Education 10-6,"Rawlings, Maryanne",W-104,"22 (M: 9, F: 13)",Active,D4-US-D,0
+Upper School,PE605-1,Vinyasa Yoga (Spring),"Erz, Anya",W-104,14 (F: 14),Future,"T:3:45 - 4:45, R:3:45 - 4:45",0.25
+Upper School,DIS Investment,DIS Investment,"Jones, Brandon",W-105,"18 (M: 13, F: 5)",Active,W:8:00 - 9:10,0.25
+Upper School,SCI340-1,Research Methods in Neuroscience,"Shapiro, Matthew",W-105,"18 (M: 3, F: 15)",Active,"D2D4-US-G, D4-US-I, D5D7D8-US-G",0.5
+Upper School,SCI710-1,Biology-1,"Porter, Eva",W-105,"16 (M: 7, F: 9)",Active,"D2D3D5D7-US-B, D7-US-I, D8-US-B",0.5
+Upper School,SCI710-2,Biology-2,"Porter, Eva",W-105,"16 (M: 9, F: 7)",Active,"D1-US-D, D1-US-I, D2D4D5D7-US-D",0.5
+Upper School,SCI710-3,Biology-3,"Porter, Eva",W-105,"18 (M: 10, F: 8)",Active,"D1D2D4D6-US-A, D6-US-I, D7-US-A",0.5
+Upper School,SCI710-4,Biology-4,"Solomon, Alyson",W-105,"13 (M: 7, F: 6)",Active,"D1D3-US-F, D3-US-I, D4D6D7-US-F",0.5
+Upper School,SCI710-5,Biology-5,"Solomon, Alyson",W-105,"12 (M: 9, F: 3)",Active,"D1D3D5-US-H, D5-US-I, D6D8-US-H",0.5
+Upper School,SCI710-6,Biology-6,"Solomon, Alyson",W-105,"16 (M: 6, F: 10)",Active,"D2-US-E, D2-US-I, D3D5D6D8-US-E",0.5
+Upper School,CS155-1,Computer Science Capstone,"Waldman, Jeffrey",W-105,"5 (M: 4, F: 1)",Active,D1D4D8-US-C,0.25
+Upper School,HR 12-2,US Homeroom 12-2,"Croxford, Mark",W-105,"7 (M: 4, F: 3)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 12-2,US Advisory 12-2,"Croxford, Mark",W-105,"7 (M: 4, F: 3)",Active,M-Advsy,0
+Upper School,DIS Data Science,DIS Data Science in R,"Porter, Eva",W-108,1 (F: 1),Active,D1-US-C,0.25
+Upper School,A/W Support GC,A/W Support GC,"Dudurich, Jedi",W-111,1 (M: 1),Active,D1D6-US-H,0
+Upper School,A/W Support NO,A/W Support NO,"Kushner, Joy",W-111,1 (M: 1),Active,D5D8-US-H,0
+Upper School,A/W Support KM,A/W Support KM,"Haber, Conrad",W-111,1 (F: 1),Active,D2D7-US-A,0
+Upper School,A/W Support OM,A/W Support OM,"McClung, Robert",W-111,1 (M: 1),Active,D4D7-US-F,0
+Upper School,A/W Support WT,A/W Support WT,"Brock, Caroline",W-111,1 (M: 1),Active,D6-US-H,0
+Upper School,A/W Support AMag,A/W Support AMag,"Haber, Conrad",W-111,1 (F: 1),Active,D3D6-US-F,0
+Upper School,A/W Support CJal,A/W Support CJal,"Kushner, Joy",W-111,1 (M: 1),Active,D3D6-US-F,0
+Upper School,HR 9-7,US Homeroom 9-7,"Kushner, Joy",W-111,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,A/W Support MHR,A/W Support MHR,"Haber, Conrad",W-111,1 (M: 1),Active,"D4-US-A, D8-US-C",0
+Upper School,A/W Support TZ,A/W Support TZ,"McClung, Robert",W-111,1 (M: 1),Active,D5D8-US-E,0
+Upper School,A/W Support IB,A/W Support IB,"Kushner, Joy",W-111,1 (M: 1),Active,"D1-US-D, D4-US-F",0
+Upper School,A/W Support RC,A/W Support RC,"Gondi, June",W-111,1 (F: 1),Active,"D2-US-B, D6-US-C",0
+Upper School,A/W Support TDa,A/W Support TDa,"Kushner, Joy",W-111,1 (M: 1),Active,D2D7-US-G,0
+Upper School,A/W Support KD,A/W Support KD,"Haber, Conrad",W-111,1 (M: 1),Active,"D1-US-D, D4-US-F",0
+Upper School,A/W Support GG,A/W Support GG,"Kushner, Joy",W-111,1 (M: 1),Active,D3D6-US-H,0
+Upper School,A/W Support AG,A/W Support AG,"Haber, Conrad",W-111,1 (M: 1),Active,D1D4-US-C,0
+Upper School,A/W Support CH,A/W Support CH,"Haber, Conrad",W-111,1 (M: 1),Active,D3D7-US-B,0
+Upper School,A/W Support CJ,A/W Support CJ,"Haber, Conrad",W-111,1 (M: 1),Active,"D2-US-D, D7-US-F",0
+Upper School,A/W Support SA,A/W Support SA,"Slavova, Penka",W-111,1 (F: 1),Active,D1D5-US-D,0
+Upper School,A/W Support AB,A/W Support AB,"Haber, Conrad",W-111,1 (F: 1),Active,D1D5-US-H,0
+Upper School,A/W Support BC,A/W Support BC,"Orlandini, Meredith",W-111,1 (M: 1),Active,D5D8-US-B,0
+Upper School,A/W Support TD,A/W Support TD,"Haber, Conrad",W-111,0,Active,D2D5-US-G,0
+Upper School,A/W Support DH,A/W Support DH,"Brock, Caroline",W-111,1 (M: 1),Active,D4D7-US-G,0
+Upper School,A/W Support LH,A/W Support LH,"Orlandini, Meredith",W-111,1 (M: 1),Active,"D3-US-E, D6-US-I",0
+Upper School,A/W Support SJ,A/W Support SJ,"Slavova, Penka",W-111,1 (F: 1),Active,"D4-US-C, D7-US-F",0
+Upper School,A/W Support ZM,A/W Support ZM,"Kushner, Joy",W-111,1 (M: 1),Active,D3D7-US-F,0
+Upper School,A/W Support GR,A/W Support GR,"Kushner, Joy",W-111,1 (M: 1),Active,D5D8-US-E,0
+Upper School,A/W Support CR,A/W Support CR,"Kushner, Joy",W-111,1 (M: 1),Active,D1D4-US-A,0
+Upper School,A/W Support MS,A/W Support MS,"Slavova, Penka",W-111,1 (F: 1),Active,"D3-US-F, D7-US-G",0
+Upper School,A/W Support HS,A/W Support HS,"Slavova, Penka",W-111,1 (F: 1),Active,"D4-US-G, D6-US-F",0
+Upper School,A/W Support AS,A/W Support AS,"McClung, Robert",W-111,1 (F: 1),Active,"D4-US-G, D6-US-F",0
+Upper School,A/W Support HV,A/W Support HV,"Kushner, Joy",W-111,1 (F: 1),Active,D3D7-US-B,0
+Upper School,A/W Support FJ,A/W Support FJ,"Haber, Conrad",W-111,1 (M: 1),Active,"D3-US-I, D8-US-H",0
+Upper School,A/W Support JJ,A/W Support JJ,"Slavova, Penka",W-111,1 (F: 1),Active,"D2-US-A, D6-US-H",0
+Upper School,A/W Support AK,A/W Support AK,"Slavova, Penka",W-111,1 (F: 1),Active,"D1-US-H, D4-US-D",0
+Upper School,A/W Support EK,A/W Support EK,"Brock, Caroline",W-111,1 (F: 1),Active,D2D6-US-A,0
+Upper School,A/W Support IK,A/W Support IK,"Haber, Conrad",W-111,1 (M: 1),Active,"D2-US-E, D8-US-B",0
+Upper School,A/W Support SLa,A/W Support SLa,"McClung, Robert",W-111,1 (M: 1),Active,"D3-US-F, D8-US-G",0
+Upper School,A/W Support NL,A/W Support NL,"Gondi, June",W-111,1 (F: 1),Active,"D1-US-D, D6-US-E",0
+Upper School,A/W Support NM,A/W Support NM,"Gondi, June",W-111,1 (F: 1),Active,D2D5-US-D,0
+Upper School,A/W Support AP,A/W Support AP,"McClung, Robert",W-111,1 (F: 1),Active,D1D4-US-C,0
+Upper School,A/W Support DR,A/W Support DR,"Gondi, June",W-111,1 (M: 1),Active,D2D5-US-E,0
+Upper School,A/W Support NR,A/W Support NR,"Gondi, June",W-111,1 (M: 1),Active,D3D8-US-B,0
+Upper School,A/W Support BS,A/W Support BS,"Brock, Caroline",W-111,1 (M: 1),Active,D3D7-US-B,0
+Upper School,A/W Support MT,A/W Support MT,"Kushner, Joy",W-111,1 (F: 1),Active,"D1-US-H, D5-US-B",0
+Upper School,A/W Support AW,A/W Support AW,"Orlandini, Meredith",W-111,1 (F: 1),Active,D1D4-US-F,0
+Upper School,A/W Support AX,A/W Support AX,"Kushner, Joy",W-111,1 (F: 1),Active,"D2D4-US-I, D7-US-D",0
+Upper School,A/W Support AYao,A/W Support AYao,"Kushner, Joy",W-111,1 (M: 1),Active,D1D6-US-C,0
+Upper School,A/W Support BD,A/W Support BD,"Kushner, Joy",W-111,1 (M: 1),Active,D5D8-US-G,0
+Upper School,A/W Support IH,A/W Support IH,"Gondi, June",W-111,1 (F: 1),Active,D2D7-US-G,0
+Upper School,A/W Support AM,A/W Support AM,"Kushner, Joy",W-111,1 (F: 1),Active,"D3-US-E, D6-US-A",0
+Upper School,A/W Support AMoss,A/W Support AMoss,"Kushner, Joy",W-111,1 (M: 1),Active,"D2-US-A, D7-US-G",0
+Upper School,A/W Support JP,A/W Support JP,"Kushner, Joy",W-111,1 (M: 1),Active,"D4-US-D, D8-US-B",0
+Upper School,A/W Support APen,A/W Support APen,"Kushner, Joy",W-111,1 (M: 1),Active,"D3-US-H, D6-US-C",0
+Upper School,A/W Support MServ,A/W Support MServ,"Haber, Conrad",W-111,1 (M: 1),Active,D3D6-US-E,0
+Upper School,A/W Support TW,A/W Support TW,"Kushner, Joy",W-111,1 (F: 1),Active,D3D8-US-C,0
+Upper School,A/W Support ZB CB,A/W Support ZB CB,"Orlandini, Meredith",W-111,2 (M: 2),Active,D2D7-US-D,0
+Upper School,A/W Support KC,A/W Support KC,"Orlandini, Meredith",W-111,1 (M: 1),Active,D3D8-US-I,0
+Upper School,A/W Support HG CW,A/W Support HG CW,"Orlandini, Meredith",W-111,2 (M: 2),Active,D2D5-US-G,0
+Upper School,A/W Support MGY,A/W Support MGY,"Haber, Conrad",W-111,1 (M: 1),Active,"D5-US-D, D8-US-C",0
+Upper School,A/W Support MK,A/W Support MK,"Orlandini, Meredith",W-111,1 (F: 1),Active,"D1-US-C, D5-US-I",0
+Upper School,A/W Support JL,A/W Support JL,"Kushner, Joy",W-111,1 (M: 1),Active,"D2-US-A, D5-US-D",0
+Upper School,A/W Support DM,A/W Support DM,"Orlandini, Meredith",W-111,1 (M: 1),Active,D4D7-US-I,0
+Upper School,A/W Support CRa,A/W Support CRa,"Haber, Conrad",W-111,1 (M: 1),Active,D2D5-US-B,0
+Upper School,A/W Support SR,A/W Support SR,"Orlandini, Meredith",W-111,1 (M: 1),Active,D3D6-US-H,0
+Upper School,A/W Support CS,A/W Support CS,"Kushner, Joy",W-111,1 (M: 1),Active,D1D6-US-F,0
+Upper School,A/W Support MTh,A/W Support MTh,"Orlandini, Meredith",W-111,1 (M: 1),Active,"D2-US-I, D6-US-C",0
+Upper School,A/W Support RK,A/W Support RK,"Kushner, Joy",W-111,1 (F: 1),Active,"D4-US-C, D7-US-A",0
+Upper School,ADV 9-7,US Advisory 9-7,"Kushner, Joy",W-111,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,SCI721-1,Chemistry Tutorial-1,"Nelson, Genevieve",W-111,"4 (M: 1, F: 3)",Active,D7-US-D,0
+Upper School,SCI721-3,Chemistry Tutorial-3,"Nelson, Genevieve",W-111,"5 (M: 3, F: 2)",Active,D5-US-D,0
+Upper School,SCI311-1,Physics Tutorial-1,"Lynam, Robert",W-111,"4 (M: 2, F: 2)",Active,D3-US-E,0
+Upper School,SCI311-2,Physics Tutorial-2,"Spinka, Tracey",W-111,"5 (M: 1, F: 4)",Active,D1-US-H,0
+Upper School,SCI311-3,Physics Tutorial-3,"Wein, Bob",W-111,6 (F: 6),Active,D3-US-F,0
+Upper School,SCI311-4,Physics Tutorial-4,"Lynam, Robert",W-111,"3 (M: 2, F: 1)",Active,D6-US-E,0
+Upper School,AcadSupp Haber,Academic Support,"Haber, Conrad",W-111,"13 (M: 10, F: 3)",Active,,0
+Upper School,SCI721-2,Chemistry Tutorial-2,"Spinka, Tracey",W-204,3 (M: 3),Active,D6-US-F,0
+Upper School,SCI720-6,Chemistry-6,"Lynam, Robert",W-204,"18 (M: 9, F: 9)",Active,"D1-US-D, D1-US-I, D2D4D5D7-US-D",0.5
+Upper School,SCI720-1,Chemistry-1,"Spinka, Tracey",W-204,"16 (M: 8, F: 8)",Active,"D2-US-E, D2-US-I, D3D5D6D8-US-E",0.5
+Upper School,SCI720-2,Chemistry-2,"Spinka, Tracey",W-204,"20 (M: 8, F: 12)",Active,"D1D2D4D6-US-A, D6-US-I, D7-US-A",0.5
+Upper School,SCI720-3,Chemistry-3,"Nelson, Genevieve",W-204,"18 (M: 11, F: 7)",Active,"D2D4-US-G, D4-US-I, D5D7D8-US-G",0.5
+Upper School,SCI720-4,Chemistry-4,"Spinka, Tracey",W-204,"17 (M: 9, F: 8)",Active,"D2D3D5D7-US-B, D7-US-I, D8-US-B",0.5
+Upper School,SCI720-5,Chemistry-5,"Nelson, Genevieve",W-204,"19 (M: 10, F: 9)",Active,"D1D3D4D6D8-US-C, D8-US-I",0.5
+Upper School,ENG650-4,Style Fundamentals-4,"Hotek, Adam",W-204,"16 (M: 10, F: 6)",Active,D8-US-H,0.25
+Upper School,ADV 10-5,US Advisory 10-5,"Nelson, Genevieve",W-204,"9 (M: 4, F: 5)",Active,M-Advsy,0
+Upper School,HR 10-5,US Homeroom 10-5,"Nelson, Genevieve",W-204,"9 (M: 4, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ENG650-8,Style Fundamentals-8,"Hotek, Adam",W-204,"15 (M: 8, F: 7)",Future,D8-US-H,0.25
+Upper School,ADV 12-12,US Advisory 12-12,"Spinka, Tracey",W-205,"8 (M: 4, F: 4)",Active,M-Advsy,0
+Upper School,HR 12-12,US Homeroom 12-12,"Spinka, Tracey",W-205,"8 (M: 4, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,DIS ASL 1,DIS ASL 1,"Volpe, Marcia",W-205,5 (F: 5),Active,D3D7-US-B,0.25
+Upper School,SEM990-1,Peer Writing Advisor Training Part 2,"Friedman, Robin",W-205,"18 (M: 7, F: 11)",Active,D2D5-US-B,0.25
+Upper School,SCI730-1,Advanced Chemistry-1,"Shapiro, Matthew",W-205,"8 (M: 5, F: 3)",Active,"D2-US-E, D2-US-I, D3-US-E, D3-US-I, D5D6D8-US-E",0.5
+Upper School,SCI730-2,Advanced Chemistry-2,"Spinka, Tracey",W-205,"14 (M: 4, F: 10)",Active,"D1-US-C, D1-US-I, D3D4D6D8-US-C, D8-US-I",0.5
+Upper School,MOD750-1,Spanish V-1,"Bradburd, Rachel",W-205,"14 (M: 6, F: 8)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,MOD750-2,Spanish V-2,"Bradburd, Rachel",W-205,"10 (M: 4, F: 6)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,SCI740-1,Environmental Science-1,"Croxford, Mark",W-205,"20 (M: 9, F: 11)",Active,"D1D2D4D6-US-A, D6-US-I, D7-US-A",0.5
+Upper School,SCI740-2,Environmental Science-2,"Croxford, Mark",W-205,"20 (M: 13, F: 7)",Active,"D1D3D4-US-F, D4-US-I, D6D7-US-F",0.5
+Upper School,SCI310-1,Physics-1,"Croxford, Mark",W-207,"13 (M: 6, F: 7)",Active,"D1-US-D, D1-US-I, D2D4D5D7-US-D",0.5
+Upper School,SCI310-2,Physics-2,"Wein, Bob",W-207,"19 (M: 12, F: 7)",Active,"D1D3D5-US-H, D5-US-I, D6D8-US-H",0.5
+Upper School,SCI310-3,Physics-3,"Lynam, Robert",W-207,"13 (M: 3, F: 10)",Active,"D2D4-US-G, D4-US-I, D5D7D8-US-G",0.5
+Upper School,SCI310-4,Physics-4,"Lynam, Robert",W-207,"16 (M: 8, F: 8)",Active,"D1D2D4D6-US-A, D6-US-I, D7-US-A",0.5
+Upper School,SCI310-5,Physics-5,"Lynam, Robert",W-207,"17 (M: 8, F: 8, NB: 1)",Active,"D1D3-US-F, D3-US-I, D4D6D7-US-F",0.5
+Upper School,SCI310-6,Physics-6,"Croxford, Mark",W-207,"15 (M: 9, F: 6)",Active,"D1D3D4D6D8-US-C, D8-US-I",0.5
+Upper School,SCI310-7,Physics-7,"Croxford, Mark",W-207,"20 (M: 10, F: 9, NB: 1)",Active,"D2-US-E, D2-US-I, D3D5D6D8-US-E",0.5
+Upper School,DIS001-1,DIS Check-in 1-1,None,W-207,0,Active,,0
+Upper School,DIS001-2,DIS Check-in 1-2,None,W-207,0,Active,,0
+Upper School,ADV 10-4,US Advisory 10-4,"Lynam, Robert",W-207,"9 (M: 3, F: 6)",Active,M-Advsy,0
+Upper School,CS180,Mobile App Development I,"Waldman, Jeffrey",W-207,"8 (M: 5, F: 3)",Active,D3D7D8-US-B,0.25
+Upper School,HR 10-4,US Homeroom 10-4,"Lynam, Robert",W-207,"9 (M: 3, F: 6)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 10-12,US Homeroom 10-12,"Wein, Bob",W-208,"8 (M: 5, F: 3)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 10-12,US Advisory 10-12,"Wein, Bob",W-208,"8 (M: 5, F: 3)",Active,M-Advsy,0
+Upper School,CS200-1,Machine Studio,"Henderson, John",W-208,"13 (M: 7, F: 6)",Active,D2D5D8-US-B,0.25
+Upper School,SCI810-1,Principles of Engineering : Adv.-1,"Porter, Eva",W-208,"12 (M: 8, F: 4)",Active,"D2D4-US-G, D4-US-I, D5-US-G, D5-US-I, D7D8-US-G",0.5
+Upper School,SCI810-2,Principles of Engineering : Adv.-2,"Wein, Bob",W-208,"13 (M: 7, F: 6)",Active,"D1-US-C, D1-US-I, D3D4D6D8-US-C, D8-US-I",0.5
+Upper School,SCI770-2,Advanced Physics-2,"Wein, Bob",W-208,"14 (M: 9, F: 5)",Active,"D1D2D4D6-US-A, D6-US-I, D7-US-A, D7-US-I",0.5
+Upper School,CS190-1,Electronics Design Workshop,"Waldman, Jeffrey",W-208,"3 (M: 1, F: 2)",Active,D1D3D6-US-H,0.25
+Upper School,SCI770-1,Advanced Physics-1,"Wein, Bob",W-208,"8 (M: 6, F: 2)",Active,"D2-US-E, D2-US-I, D3-US-E, D3-US-I, D5D6D8-US-E",0.5
+Upper School,DIS Quantum Physics ,DIS Quantum Physics 2,"Spinka, Tracey",W-Hallway Downstairs,1 (F: 1),Active,D4-US-F,0.25
+Upper School,DIS Major Biochem,DIS Major Biochem,"Shapiro, Matthew",W-Science Office,1 (M: 1),Active,"D1-US-D, D5-US-B",0.5
+Upper School,DIS Minor Biochem,Biochem (DIS Minor),"Lynam, Robert",W-Science Office,1 (M: 1),Active,D5-US-H,0.25
+Upper School,CS111-2,Robotics-2,"Zipin, Matthew",HC-107,"5 (M: 3, F: 2)",Future,D2D6D7-US-A,0.25
+Upper School,HR 11-11,US Homeroom 11-11,"Zipin, Matthew",HC-107,"8 (M: 4, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 11-11,US Advisory 11-11,"Zipin, Matthew",HC-107,"8 (M: 4, F: 4)",Active,M-Advsy,0
+Upper School,CS TA (DIS)-1,Comp Sci TA (DIS)-1,"Porter, Eva",HC-107,1 (F: 1),Active,D3D6-US-F,0.25
+Upper School,CS TA (DIS)-2,Comp Sci TA (DIS)-2,"Zipin, Matthew",HC-107,"2 (M: 1, F: 1)",Active,D4D7-US-G,0.25
+Upper School,CS TA (DIS)-3,Comp Sci TA (DIS)-3,"Zipin, Matthew",HC-107,1 (F: 1),Active,D1D8-US-H,0.25
+Upper School,CS111-1,Robotics-1,"Zipin, Matthew",HC-107,"8 (M: 6, F: 2)",Active,D2D6D7-US-A,0.25
+Upper School,CS160-1,Web Design & Development I,"Kappel, Sarah",HC-107,"11 (M: 6, F: 5)",Active,D2D5D8-US-E,0.25
+Upper School,CS171-1,Digital Design I,"Kappel, Sarah",HC-107,"5 (M: 4, F: 1)",Active,D1D4D7-US-F,0.25
+Upper School,CS130-1,Computer Science 1-1 ,"Porter, Eva",HC-107,"13 (M: 8, F: 5)",Active,D3D6-US-F,0.25
+Upper School,CS130-2,Computer Science 1-2,"Zipin, Matthew",HC-107,"13 (M: 8, F: 5)",Active,D4D7-US-G,0.25
+Upper School,CS130-3,Computer Science 1-3,"Zipin, Matthew",HC-107,"12 (M: 9, F: 3)",Active,D1D8-US-H,0.25
+Upper School,CS140-1,Computer Science 2-1,"Pigeon, Colin",HC-107,"10 (M: 7, F: 3)",Active,D3D5D6-US-H,0.25
+Upper School,CS140-2,Computer Science 2-2,"Porter, Eva",HC-107,"13 (M: 7, F: 6)",Active,D3D6D8-US-C,0.25
+Upper School,CS150-1,Computer Science 3-1,"Pigeon, Colin",HC-107,"10 (M: 7, F: 3)",Active,D2D5D8-US-G,0.25
+Upper School,CS100-1,Computer Science for Beginners,"Zipin, Matthew",HC-107,"6 (M: 4, F: 1, NB: 1)",Active,T:2:15 - 3:30,0.25
+Upper School,CS150-2,Computer Science 3-2,"Pigeon, Colin",HC-107,"13 (M: 6, F: 7)",Active,D2D5D8-US-B,0.25
+Upper School,CS170-1,Web Design & Development II,"Kappel, Sarah",HC-107,"5 (M: 3, F: 2)",Active,D2D4D7-US-D,0.25
+Upper School,MTH830-1,Topics in Advanced Mathematics,None,<None Specified>,1 (F: 1),Active,,0.5
+Upper School,SRAFFORD-W,Senior Affordance - Winter,"Erz, Anya",<None Specified>,"18 (M: 6, F: 12)",Active,-:5:00 - 6:00,0
+Upper School,DIS Arabic 1,DIS Arabic 1,"Ahmed, Mohamed",<None Specified>,"3 (M: 1, F: 2)",Active,M:11:00 - 11:50,0.25
+Upper School,THT815-2,Theatre Movement Arts (winter),"Miller, Jake",<None Specified>,1 (F: 1),Active,,0
+Upper School,GOA Climate-A,Climate Change and Global Inequality (GOA)-A,"Lee, Andrew",<None Specified>,1 (M: 1),Active,-,0.5
+Upper School,GOA332-A,Personal Finance (GOA)-A,"Lee, Andrew",<None Specified>,1 (M: 1),Active,-,0.5
+Upper School,PE612-1,Fitness Club (Winter),"Sheehan, Matt",<None Specified>,"80 (M: 46, F: 34)",Active,-:5:00 - 6:00,0.25
+Upper School,GOA350-B,Developmental Psychology (GOA)-B,"Lee, Andrew",<None Specified>,1 (F: 1),Active,,0.5
+Upper School,GOA321-B,Cyber Security (GOA)-B,"Lee, Andrew",<None Specified>,0,Active,,0.5
+Upper School,GOA327-B,Graphic Design (GOA)-B,"Lee, Andrew",<None Specified>,1 (M: 1),Active,,0.5
+Upper School,AcadSupp Kushner,Academic Support,"Kushner, Joy",<None Specified>,"21 (M: 15, F: 6)",Active,,0
+Upper School,GOA Entrepreuner-B,Entrepreneurship In a Global Context (GOA)-B,"Lee, Andrew",<None Specified>,2 (M: 2),Active,,0.5
+Upper School,ISP,International Student Program,"Slavova, Penka",<None Specified>,"8 (M: 5, F: 3)",Active,,0
+Upper School,AcadSupp Brock,Academic Support,"Brock, Caroline",<None Specified>,"6 (M: 5, F: 1)",Active,,0
+Upper School,AcadSupp McClung,Academic Support,"McClung, Robert",<None Specified>,"5 (M: 3, F: 2)",Active,,0
+Upper School,AcadSupp Orlandini,Academic Support,"Orlandini, Meredith",<None Specified>,"12 (M: 10, F: 2)",Active,,0
+Upper School,AcadSupp Gondi,Academic Support,"Gondi, June",<None Specified>,"6 (M: 2, F: 4)",Active,,0
+Upper School,College-10-AA,College Counseling 10-AA,"Abrams, Alison",<None Specified>,0,Active,,0
+Upper School,College-10-JH,College Counseling 10-JH,"Hightower, James",<None Specified>,0,Active,,0
+Upper School,College-10-ND,College Counseling 10-ND,"Dillman, Nicolas",<None Specified>,0,Active,,0
+Upper School,College-11-AA,College Counseling 11-AA,"Abrams, Alison",<None Specified>,"36 (M: 18, F: 18)",Active,,0
+Upper School,College-11-JH,College Counseling 11-JH,"Hightower, James",<None Specified>,"23 (M: 13, F: 10)",Active,,0
+Upper School,College-11-ND,College Counseling 11-ND,"Dillman, Nicolas",<None Specified>,"37 (M: 21, F: 16)",Active,,0
+Upper School,College-12-AA,College Counseling 12-AA,"Abrams, Alison",<None Specified>,"41 (M: 20, F: 21)",Active,,0
+Upper School,College-12-JH,College Counseling 12-JH,"Hightower, James",<None Specified>,"25 (M: 13, F: 12)",Active,,0
+Upper School,College-12-ND,College Counseling 12-ND,"Dillman, Nicolas",<None Specified>,"42 (M: 22, F: 20)",Active,,0
+Upper School,US Grade Dean 10,US Grade Dean-10,"Van Atta, Frank",<None Specified>,"106 (M: 54, F: 52)",Active,,0
+Upper School,US Grade Dean 11,US Grade Dean-11,"Varamini, Behnaz",<None Specified>,"96 (M: 52, F: 44)",Active,,0
+Upper School,US Grade Dean 12,US Grade Dean-12,"Myran, Tom",<None Specified>,"108 (M: 55, F: 53)",Active,,0
+Upper School,US Grade Dean 9,US Grade Dean-9,"Bradburd, Rachel",<None Specified>,"114 (M: 57, F: 55, NB: 2)",Active,,0
+Upper School,GOA MedProbSolve 2,Medical Problem Solving 2 (GOA),"Lee, Andrew",<None Specified>,2 (F: 2),Active,,0.5
+Upper School,GOA Multivariable,Multivariable Calculus (GOA),"Lee, Andrew",<None Specified>,1 (F: 1),Active,,0.5
+Upper School,GOA Intro to Psych A,Introduction to Psychology (GOA) A,"Lee, Andrew",<None Specified>,2 (F: 2),Active,-,0.5
+Upper School,GOA MedProbSolv-A,Medical Problem Solving I (GOA)-A,"Lee, Andrew",<None Specified>,"2 (M: 1, F: 1)",Active,-,0.5
+Upper School,GOA IntroInvst-B,Introduction to Investments (GOA)-B,"Lee, Andrew",<None Specified>,2 (F: 2),Active,,0.5
+Upper School,GOA Intro Legal-A,Introduction to Legal Thinking (GOA) (Sem)-A,"Lee, Andrew",<None Specified>,1 (M: 1),Active,-,0.5
+Upper School,GOA Archtecht-A,Architecture (GOA)-A,"Lee, Andrew",<None Specified>,1 (F: 1),Active,-,0.5
+Upper School,GOA Digital Photo-B,Digital Photography (GOA)-B,"Lee, Andrew",<None Specified>,1 (F: 1),Active,,0.5
+Upper School,GOA AbnPsy-A,Abnormal Psychology (GOA)-A,"Lee, Andrew",<None Specified>,0,Active,-,0.5
+Upper School,GOA NeuroPsych-A,Neuropsychology (GOA)-A,"Lee, Andrew",<None Specified>,1 (F: 1),Active,-,0.5
+Upper School,GOA NeuroPsych-B,Neuropsychology (GOA)-B,"Lee, Andrew",<None Specified>,0,Active,,0.5
+Upper School,GOA PosPsy-A,Positive Psychology (GOA)-A,"Lee, Andrew",<None Specified>,3 (F: 3),Active,-,0.5
+Upper School,PE910-1,PE 10,"Erz, Anya",<None Specified>,"106 (M: 54, F: 52)",Active,,0.25
+Upper School,PE911-1,PE 11,"Erz, Anya",<None Specified>,"96 (M: 52, F: 44)",Active,,0.25
+Upper School,PE912-1,PE 12,"Erz, Anya",<None Specified>,"108 (M: 55, F: 53)",Active,,0.25
+Upper School,US MFW-F,US Meeting for Worship,None,<None Specified>,0,Active,R-US-MFW,0
+Upper School,US MFW-S,US Meeting for Worship,None,<None Specified>,"424 (M: 218, F: 204, NB: 2)",Active,R-US-MFW,0
+Upper School,MUS750-1,Choir,"Van Atta, Frank",<None Specified>,"53 (M: 28, F: 25)",Active,"D1-US-C, D1-US-I, D4D8-US-C, D8-US-I",0.25
+Upper School,MUS320-1,Musical Instrument Building-1,"Westerhaus, Andrew",<None Specified>,"4 (M: 2, F: 2)",Active,D1D4D6-US-C,0.25
+Upper School,MUS690,Music Major,"Harlos, Taia",<None Specified>,"11 (M: 5, F: 6)",Active,,0
+Upper School,ART790,Art Major,"Culp, Megan",<None Specified>,"8 (M: 5, F: 3)",Active,,0
+Upper School,ARL Fellowship,ARL Fellowship,None,<None Specified>,0,Active,,0
+Upper School,J-Term Comm Mtg,J-Term Committee Mtg,"Henderson, Kasey",<None Specified>,0,Active,D5-U-Lnch,0
+Upper School,JV Basketball B,Junior Varsity Basketball Blue - Boys,"Pines, Jalil",<None Specified>,23 (M: 23),Active,,0
+Upper School,JV Basketball Orange,Junior Varsity Basketball Orange - Boys,"Pines, Jalil",<None Specified>,0,Active,,0
+Upper School,JV Basketball G,Junior Varsity Basketball - Girls,"Moser, Eléonore",<None Specified>,8 (F: 8),Active,,0
+Upper School,JV Squash B,Junior Varsity Squash - Boys,"Flythe, Dewon",<None Specified>,0,Active,,0
+Upper School,JV Squash G,Junior Varsity Squash - Girls,None,<None Specified>,0,Active,,0
+Upper School,GOA330,Applying Philosophy to Global Issues (GOA) -A,"Lee, Andrew",<None Specified>,1 (M: 1),Active,-,0.5
+Upper School,Hargroves 1-H,Hargroves Coverage 1-H,"Cheung, Ada",<None Specified>,0,Active,D1-US-I,0
+Upper School,Hargroves 2-H,Hargroves Coverage 2-H,"Mower, Randall",<None Specified>,0,Active,D2-US-I,0
+Upper School,Hargroves 3-H,Hargroves Coverage 3-H,"Santa, Caroline",<None Specified>,0,Active,D3-US-I,0
+Upper School,Hargroves 4-H,Hargroves Coverage 4-H,"Waldman, Jeffrey",<None Specified>,0,Active,D4-US-I,0
+Upper School,Hargroves 5-H,Hargroves Coverage 5-H,"Bradburd, Rachel",<None Specified>,0,Active,D5-US-I,0
+Upper School,Hargroves 6-H,Hargroves Coverage 6-H,"Varamini, Behnaz",<None Specified>,0,Active,D6-US-I,0
+Upper School,Hargroves 7-H,Hargroves Coverage 7-H,"Burns, Lisa",<None Specified>,0,Active,D7-US-I,0
+Upper School,Hargroves 8-H,Hargroves Coverage 8-H,"Li, Yi",<None Specified>,0,Active,D8-US-I,0
+Upper School,Basketball G,Varsity Basketball - Girls,"Lintulahti, Michael",<None Specified>,12 (F: 12),Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,V Basktball B,Varsity Basketball - Boys,"Werdt, Shawn",<None Specified>,14 (M: 14),Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,V Crew Win,Crew Winter - Coed,"Severi, Brian",<None Specified>,"20 (M: 9, F: 11)",Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,V IndrTrk B,Varsity Winter Track - Boys,"Haber, Conrad",<None Specified>,38 (M: 38),Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,V IndrTrk G,Varsity Winter Track - Girls,"Haber, Conrad",<None Specified>,24 (F: 24),Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,V Squash B,Varsity Squash - Boys,"Longman, Chris",<None Specified>,24 (M: 24),Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,V Squash G,Varsity Squash - Girls,"West, Lauren",<None Specified>,"12 (M: 1, F: 11)",Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,JV Tennis G,Junior Varsity Tennis - Girls,None,<None Specified>,0,Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,GOA355,Japanese Language Through Culture II (GOA),"Lee, Andrew",<None Specified>,1 (F: 1),Active,,0.5
+Upper School,Hargroves 1-1,Hargroves Coverage 1-1,"Holt, Stephen",<None Specified>,0,Active,D1-US-A,0
+Upper School,Hargroves 1-2,Hargroves Coverage 1-2,"Tvarok, April",<None Specified>,0,Active,D1-US-C,0
+Upper School,Hargroves 1-4,Hargroves Coverage 1-4,"Lu, Di",<None Specified>,0,Active,D1-US-D,0
+Upper School,Hargroves 1-6,Hargroves Coverage 1-6,"Harlos, Taia",<None Specified>,0,Active,D1-US-F,0
+Upper School,Hargroves 1-7,Hargroves Coverage 1-7,"Lazorko, Jared",<None Specified>,0,Active,D1-U-Lnch,0
+Upper School,Hargroves 2-1,Hargroves Coverage 2-1,"Kappel, Sarah",<None Specified>,0,Active,D2-US-A,0
+Upper School,Hargroves 2-2,Hargroves Coverage 2-2,"Henderson, Kasey",<None Specified>,0,Active,D2-US-B,0
+Upper School,Hargroves 2-3,Hargroves Coverage 2-3,"McGeary, Joseph",<None Specified>,0,Active,D2-US-D,0
+Upper School,Hargroves 2-4,Hargroves Coverage 2-4,"Lee, Andrew",<None Specified>,0,Active,D2-U-Lnch,0
+Upper School,Hargroves 3-1,Hargroves Coverage 3-1,"Knowles, Luisa",<None Specified>,0,Active,D3-US-B,0
+Upper School,Hargroves 3-2,Hargroves Coverage 3-2,"Quant, Elena",<None Specified>,0,Active,D3-US-C,0
+Upper School,Hargroves 3-3,Hargroves Coverage 3-3,None,<None Specified>,0,Active,D3-US-E,0
+Upper School,Hargroves 3-4,Hargroves Coverage 3-4,"Zipin, Matthew",<None Specified>,0,Active,D3-US-F,0
+Upper School,Hargroves 3-5,Hargroves Coverage 3-5,"Van Atta, Frank",<None Specified>,0,Active,D3-US-H,0
+Upper School,Hargroves 4-1,Hargroves Coverage 4-1,"Shiota, Miku",<None Specified>,0,Active,D4-US-A,0
+Upper School,Hargroves 4-2,Hargroves Coverage 4-2,"Friedman, Robin",<None Specified>,0,Active,D4-US-C,0
+Upper School,Hargroves 4-3,Hargroves Coverage 4-3,"Pigeon, Colin",<None Specified>,0,Active,D4-US-D,0
+Upper School,Hargroves 4-4,Hargroves Coverage 4-4,"Ceccatti, John",<None Specified>,0,Active,D4-US-F,0
+Upper School,Hargroves 4-5,Hargroves Coverage 4-5,"Myran, Tom",<None Specified>,0,Active,D4-US-G,0
+Upper School,Hargroves 4-6,Hargroves Coverage 4-6,"Nelson, Genevieve",<None Specified>,0,Active,D4-U-Lnch,0
+Upper School,Hargroves 5-1,Hargroves Coverage 5-1,"Koehler, Michael",<None Specified>,0,Active,D5-US-B,0
+Upper School,Hargroves 5-2,Hargroves Coverage 5-2,"Guevarez, Alexander",<None Specified>,0,Active,D5-US-D,0
+Upper School,Hargroves 5-3,Hargroves Coverage 5-3,None,<None Specified>,0,Active,D5-US-E,0
+Upper School,Hargroves 5-4,Hargroves Coverage 5-4,"Rawlings, Maryanne",<None Specified>,0,Active,D5-US-G,0
+Upper School,Hargroves 6-1,Hargroves Coverage 6-1,"Solomon, Alyson",<None Specified>,0,Active,D6-US-A,0
+Upper School,Hargroves 6-2,Hargroves Coverage 6-2,"Zwerling, Sarah",<None Specified>,0,Active,D6-US-C,0
+Upper School,Hargroves 6-3,Hargroves Coverage 6-3,"Tomczuk, Jamie",<None Specified>,0,Active,D6-US-E,0
+Upper School,Hargroves 6-4,Hargroves Coverage 6-4,"McIlvain, Sam",<None Specified>,0,Active,D6-US-F,0
+Upper School,Hargroves 6-5,Hargroves Coverage 6-5,"Dawson, Jacqueline",<None Specified>,0,Active,D6-U-Lnch,0
+Upper School,Hargroves 7-1,Hargroves Coverage 7-1,"Westerhaus, Andrew",<None Specified>,0,Active,D7-US-A,0
+Upper School,Hargroves 7-2,Hargroves Coverage 7-2,"Wein, Bob",<None Specified>,0,Active,D7-US-B,0
+Upper School,Hargroves 7-3,Hargroves Coverage 7-3,"Oxholm, Theodor",<None Specified>,0,Active,D7-US-D,0
+Upper School,Hargroves 7-4,Hargroves Coverage 7-4,"Porter, Eva",<None Specified>,0,Active,D7-US-F,0
+Upper School,Hargroves 7-5,Hargroves Coverage 7-5,"Croxford, Mark",<None Specified>,0,Active,D7-US-G,0
+Upper School,Hargroves 7-6,Hargroves Coverage 7-6,"Shapiro, Matthew",<None Specified>,0,Active,D7-U-Lnch,0
+Upper School,Hargroves 8-1,Hargroves Coverage 8-1,"Levin, Alex",<None Specified>,0,Active,D8-US-B,0
+Upper School,Hargroves 8-2,Hargroves Coverage 8-2,"Preetam, Aaron",<None Specified>,0,Active,D8-US-C,0
+Upper School,Hargroves 8-4,Hargroves Coverage 8-4,"Burns, Lisa",<None Specified>,0,Active,D8-US-H,0
+Upper School,Hargroves 8-6,Hargroves Coverage 8-6,"Lynam, Robert",<None Specified>,0,Active,D8-U-Lnch,0
+Upper School,Hargroves 3-6,Hargroves Coverage 3-6,"Ham, Greta",<None Specified>,0,Active,D3-U-Lnch,0
+Upper School,Hargroves 5-6,Hargroves Coverage 5-6,"Spinka, Tracey",<None Specified>,0,Active,D5-U-Lnch,0
+Upper School,ADV 12-11,US Advisory 12-11,"Shapiro, Matthew",<None Specified>,"8 (M: 5, F: 3)",Active,M-Advsy,0
+Upper School,ADV 12-7,US Advisory 12-7,"Kappel, Sarah",<None Specified>,"9 (M: 4, F: 5)",Active,M-Advsy,0
+Upper School,HR 12-11,US Homeroom 12-11,"Shapiro, Matthew",<None Specified>,"8 (M: 5, F: 3)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 12-7,US Homeroom 12-7,"Kappel, Sarah",<None Specified>,"9 (M: 4, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,US History Mtg,US History Mtg,"Hanssen, Kate",<None Specified>,0,Active,D6-U-Lnch,0
+Upper School,PE ALTCRED-W,PE Alternative Credit - Winter,"Erz, Anya",<None Specified>,"38 (M: 11, F: 26, NB: 1)",Active,-:5:00 - 6:00,0
+Upper School,Film Mtg,Film Mtg,"Miller, Jake",<None Specified>,0,Active,D7-US-D,0
+Upper School,THT990,Theatre Major,"Miller, Jake",<None Specified>,"4 (M: 3, F: 1)",Active,,0
+Upper School,AcadSupp Penka,Academic Support,"Slavova, Penka",<None Specified>,6 (F: 6),Active,,0
+Upper School,HEA500-2,"Queer Culture: Past, Present, Future-2","O'Donnell, Geo",<None Specified>,"3 (M: 1, F: 2)",Active,"D2-US-D, D8-US-H",0.25
+Upper School,Ninth Grade Mtg,Ninth Grade Mtg,"Miller, Jake",<None Specified>,0,Active,D5-US-B,0
+Upper School,CS990,Computer Science Major,"Henderson, John",<None Specified>,"15 (M: 11, F: 4)",Active,,0.5
+Upper School,Swimming,Swimming,"Stevens, Craig",<None Specified>,4 (M: 4),Active,,0
+Upper School,GOA MedProbSolv-B,Medical Problem Solving 1 (GOA)-B,"Lee, Andrew",<None Specified>,1 (F: 1),Active,,0
+Upper School,MOD760-2,Spanish Tutorial-2,"Dudurich, Jedi",<None Specified>,"2 (M: 1, F: 1)",Active,"D1-US-I, D7-US-G",0
+Upper School,DIS Work,DIS Work,None,<None Specified>,1 (M: 1),Active,"D2-US-D, D4-US-G, D7D8-US-B",0.25
+Upper School,DIS Mtg,DIS Mtg,"Preetam, Aaron",<None Specified>,0,Active,D7-US-F,0
+Upper School,SEM990-2,Peer Writing Advisor Training Part 2,"Friedman, Robin",<None Specified>,"5 (M: 1, F: 4)",Active,,0.25
+Upper School,US Hist Mtg,US Hist Mtg,"Ceccatti, John",<None Specified>,0,Active,D4-US-I,0
+Upper School,PE614-1,Fitness Club (Spring),"Sheehan, Matt",<None Specified>,"51 (M: 30, F: 21)",Future,-:5:00 - 6:00,0.25
+Upper School,V Softball G,Varsity Softball - Girls,"Sheldon, Julie",<None Specified>,23 (F: 23),Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,V T&F B,Varsity Track & Field - Boys,"Haber, Conrad",<None Specified>,45 (M: 45),Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,V T&F G,Varsity Track & Field - Girls,"Haber, Conrad",<None Specified>,26 (F: 26),Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,PE ALTCRED-S,PE Alternative Credit - Spring,"Erz, Anya",<None Specified>,"35 (M: 7, F: 28)",Future,-:5:00 - 6:00,0
+Upper School,GOA PosPsy-B,Positive Psychology (GOA)-B,"Lee, Andrew",<None Specified>,1 (F: 1),Future,-,0
+Upper School,GOA332-B,Personal Finance (GOA)-B,"Lee, Andrew",<None Specified>,1 (M: 1),Future,-,0
+Upper School,SRAFFORD-S,Senior Affordance - Spring,"Erz, Anya",<None Specified>,"24 (M: 7, F: 17)",Future,-:5:00 - 6:00,0
+Upper School,GOA286-B,9/11 in a Global Context (GOA)-B,"Lee, Andrew",<None Specified>,1 (M: 1),Future,-,0.5
+Upper School,Baseball,Varsity Baseball - Boys,"Mower, Randall",<None Specified>,31 (M: 31),Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,Crew Spr,Varsity Crew Spring - Coed,"Severi, Brian",<None Specified>,"54 (M: 26, F: 26, NB: 2)",Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,JV Baseball B,Junior Varsity Baseball - Boys,None,<None Specified>,0,Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,JV Softball G,Junior Varsity Softball - Girls,None,<None Specified>,0,Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,JV Tennis B,Junior Varsity Tennis - Boys,"Goodman, Robert",<None Specified>,0,Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,Tennis B,Varsity Tennis - Boys,"Booth, Christopher",<None Specified>,48 (M: 48),Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,US JV Lacrosse,Junior Varsity Lacrosse - Girls,"Bergstrom Mark, Katie",<None Specified>,0,Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,DIS Major Philosophy,DIS Major Philosophy,"Ham, Greta",A-2,1 (M: 1),Future,D2D3D6D7D8-US-I,0.5
+Upper School,HR 12-4,US Homeroom 12-4,"Ham, Greta",A-2,"8 (M: 3, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 12-4,US Advisory 12-4,"Ham, Greta",A-2,"8 (M: 3, F: 5)",Active,M-Advsy,0
+Upper School, German 3 (DIS), German 3 (DIS Minor),"Levin, Frauke",A-2,2 (M: 2),Active,D3D7-US-B,0.25
+Upper School,German 1+2 (DIS Mino,German 1+2 (DIS Minor),"Levin, Frauke",A-2,"3 (M: 2, F: 1)",Active,D1D6-US-H,0.25
+Upper School,CLA740-1,Ancient Greek IV: Adv.,"Ham, Greta",A-2,"4 (M: 1, F: 3)",Active,D1D2D4D5D7-US-D,0
+Upper School,HEA500-1,"Queer Culture: Past, Present, Future-1","O'Donnell, Geo",A-2,"4 (M: 2, F: 2)",Active,D2D5D8-US-E,0.25
+Upper School,CLA610-1,Latin V,"Ham, Greta",A-2,"8 (M: 2, F: 6)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,CLA710-1,Ancient Greek I,"Henderson, Kasey",A-2,3 (F: 3),Active,"D1D3D4-US-C, D6-U-Lnch, D8-US-C",0.5
+Upper School,CLA720-1,Ancient Greek II-1,"Ham, Greta",A-2,"4 (M: 1, F: 3)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,CLA730-1,Ancient Greek III,"Ham, Greta",A-2,"3 (M: 2, F: 1)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,CLA320-1,Latin II-1,"Sawyer, Margaret",A-4,"12 (M: 5, F: 7)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,CLA320-2,Latin II-2,"Sawyer, Margaret",A-4,"7 (M: 3, F: 4)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,CLA410-1,Latin III (History),"Henderson, Kasey",A-4,"19 (M: 16, F: 3)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,CLA510-1,Latin IV,"Ham, Greta",A-4,"14 (M: 7, F: 7)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,CLA421-1,Latin III (Poetry),"Henderson, Kasey",A-4,"16 (M: 2, F: 14)",Active,D1D3D5D6D8-US-H,0
+Upper School,ADV 9-6,US Advisory 9-6,"Henderson, Kasey",A-4,"9 (M: 4, F: 4, NB: 1)",Active,M-Advsy,0
+Upper School,HR 9-6,US Homeroom 9-6,"Henderson, Kasey",A-4,"9 (M: 4, F: 4, NB: 1)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 11-7,US Advisory 11-7,"McIlvain, Sam",FFL - Main Library,"6 (M: 5, F: 1)",Active,M-Advsy,0
+Upper School,HR 11-7,US Homeroom 11-7,"McIlvain, Sam",FFL - Main Library,"6 (M: 5, F: 1)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 10-11,US Homeroom 10-11,"Waldman, Jeffrey",FFL - Main Library,"9 (M: 6, F: 3)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 10-11,US Advisory 10-11,"Waldman, Jeffrey",FFL - Main Library,"9 (M: 6, F: 3)",Active,M-Advsy,0
+Upper School,DIS Ulysses,DIS Ulysses,"McGeary, Joseph",FFL - Main Library,1 (F: 1),Active,D2-US-B,0.25
+Upper School,DIS Anthropology,DIS Anthropology,"Miller, Carol",FFL - Main Library,1 (F: 1),Active,D4-US-C,0.25
+Upper School,ADV 9-11,US Advisory 9-11,"Sheehan, Matt",Fitness Center,"8 (M: 4, F: 4)",Active,M-Advsy,0
+Upper School,HR 9-11,US Homeroom 9-11,"Sheehan, Matt",Fitness Center,"8 (M: 4, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,HR 9-9,US Homeroom 9-9,"Mraz, David",HC-202,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 9-9,US Advisory 9-9,"Mraz, David",HC-202,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,MTH430-1,Accelerated Geometry-1,"Mraz, David",HC-202,"18 (M: 9, F: 9)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,MTH430-2,Accelerated Geometry-2,"Mraz, David",HC-202,"13 (M: 10, F: 3)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,MTH430-3,Accelerated Geometry-3,"Mraz, David",HC-202,"15 (M: 11, F: 4)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,MTH530-1,Analysis of Functions-1,"Kim, Chan",HC-202,"12 (M: 4, F: 8)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,MTH530-2,Analysis of Functions-2,"Kim, Chan",HC-202,"16 (M: 10, F: 6)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,MTH530-3,Analysis of Functions-3,"Kim, Chan",HC-202,"16 (M: 10, F: 6)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,MTH420-1,Geometry-1,"Mraz, David",HC-202,"16 (M: 7, F: 9)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,THT800-1,Movement for Theatre - Sem 1,"Miller, Jake",Loeb - Taulane,"6 (M: 2, F: 4)",Active,T:2:15 - 3:30,0
+Upper School,THT725-1,Ninth Grade Theatre-1,"Miller, Jake",Loeb - Taulane,"11 (M: 4, F: 7)",Active,D1D4D8-US-C,0.25
+Upper School,THT725-2,Ninth Grade Theatre-2,"Miller, Jake",Loeb - Taulane,"17 (M: 6, F: 11)",Active,D1D4D7-US-F,0.25
+Upper School,THT725-3,Ninth Grade Theatre-3,"O'Donnell, Geo",Loeb - Taulane,"16 (M: 8, F: 8)",Active,D2D5D8-US-G,0.25
+Upper School,ADV 11-10,US Advisory 11-10,"Tvarok, April",Loeb - Taulane,"8 (M: 4, F: 4)",Active,M-Advsy,0
+Upper School,THT725-4,Ninth Grade Theatre-4,"O'Donnell, Geo",Loeb - Taulane,"14 (M: 6, F: 7, NB: 1)",Active,D1D3D6-US-H,0.25
+Upper School,HR 11-10,US Homeroom 11-10,"Tvarok, April",Loeb - Taulane,"8 (M: 4, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,THT730,Acting & Directing Techniques,"Burns, Lisa",Loeb - Taulane,2 (M: 2),Active,D2D4D7-US-D,0.25
+Upper School,THT840-1,9th Grade Musical,"Shiota, Miku",Loeb - Taulane,"12 (M: 1, F: 10, NB: 1)",Future,D5D6-US-H,0.25
+Upper School,THT725-7,Ninth Grade Theatre-7,"O'Donnell, Geo",Loeb - Taulane,"14 (M: 6, F: 7, NB: 1)",Future,D2D5D8-US-G,0.25
+Upper School,THT725-5,Ninth Grade Theatre-5,"Miller, Jake",Loeb - Taulane,"10 (M: 8, F: 2)",Future,D1D4D8-US-C,0.25
+Upper School,THT725-6,Ninth Grade Theatre-6,"Cheung, Ada",Loeb - Taulane,"19 (M: 10, F: 9)",Future,D1D4D7-US-F,0.25
+Upper School,THT810-1,Modern Dance,"Kearney, Sloane",Loeb - West Room,"6 (M: 2, F: 4)",Future,T:2:30 - 4:00,0.25
+Upper School,MUS730-2,Chorus Sem 1,"Van Atta, Frank",Loeb - West Room,1 (M: 1),Active,D3D6-US-C,0
+Upper School,DIS Dance Costume,DIS Dance Costume Design,"Burns, Lisa",Loeb - West Room,1 (F: 1),Active,"D7-US-D, D7-US-G",0.25
+Upper School,DIS Sewing/Garment,DIS Sewing/Garment Construction,"Burns, Lisa",Loeb - West Room,1 (M: 1),Active,"D4-US-G, D6-US-A",0.25
+Upper School,DIS Women of Will,DIS Women of Will in Shakespeare,"Burns, Lisa",Loeb - West Room,1 (F: 1),Active,D3-US-B,0.25
+Upper School,DIS Poetry 2,DIS Poetry Critique 2,"Sullivan, Samuel",Loeb - West Room,3 (F: 3),Active,M:11:00 - 11:50,0.25
+Upper School,DIS FEvolution Fem,DIS FEvolution of Feminism,"Burns, Lisa",Loeb - West Room,1 (F: 1),Active,D4-US-A,0.25
+Upper School,DIS Fashion Design,DIS Fashion Design and Techniques,"Cheung, Ada",Loeb - West Room,1 (F: 1),Active,"T:2:15 - 3:15--, D7-US-B",0.25
+Upper School,HR 10-3,US Homeroom 10-3,"Levin, Alex",Loeb - West Room,"9 (M: 3, F: 6)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 10-3,US Advisory 10-3,"Levin, Alex",Loeb - West Room,"9 (M: 3, F: 6)",Active,M-Advsy,0
+Upper School,MUS730-1,Chorus,"Van Atta, Frank",Loeb - West Room,"66 (M: 35, F: 31)",Active,D3D6-US-C,0.25
+Upper School,THT791-1,Scenic and Costume Design,"Burns, Lisa",Loeb - West Room,"5 (M: 1, F: 4)",Active,D1D5-US-D,0.25
+Upper School,THT200-1,Sketch Comedy and Improv,"O'Donnell, Geo",Loeb - West Room,"7 (M: 3, F: 4)",Active,D1D4D6-US-A,0.25
+Upper School,THT830,Musical Theatre,"Burns, Lisa",Loeb - West Room,"7 (M: 1, F: 6)",Active,D2D5D8-US-G,0
+Upper School,SEM230-1,New Students 9-1,"Hogan, Callie",M-201,"8 (M: 6, F: 2)",Active,D8-US-H,0
+Upper School,SEM230-4,New Students 9-4,"Hogan, Callie",M-201,"6 (M: 1, F: 5)",Active,D1-US-H,0
+Upper School,SEM200-1,New Students 10-12-1,"Hogan, Callie",M-201,"8 (M: 4, F: 4)",Active,D4-US-C,0
+Upper School,MOD740-1,Spanish IV-1,"Varamini, Behnaz",M-201,"11 (M: 9, F: 2)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,MOD740-2,Spanish IV-2,"Varamini, Behnaz",M-201,"11 (M: 5, F: 6)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,MOD740-3,Spanish IV-3,"Varamini, Behnaz",M-201,"14 (M: 7, F: 7)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,MOD510-1,French IV: Adv.,"Knowles, Luisa",M-201,"13 (M: 3, F: 10)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,ENG410-2,English 10-2,"Gondi, June",M-201,"17 (M: 7, F: 10)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,MOD310-1,French I,"Knowles, Luisa",M-201,"7 (M: 3, F: 4)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,Lang Lab French 1,Lang Lab French 1,"Knowles, Luisa",M-201,"6 (M: 2, F: 4)",Active,D5-US-I,0
+Upper School,HR 11-3,US Homeroom 11-3,"Knowles, Luisa",M-201,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 11-3,US Advisory 11-3,"Knowles, Luisa",M-201,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,MOD760-6,Spanish Tutorial-6,"Dudurich, Jedi",M-201,1 (M: 1),Active,D6D8-US-I,0
+Upper School,MOD760-7,Spanish Tutorial-7,"Dudurich, Jedi",M-201,2 (M: 2),Active,D7-US-I,0
+Upper School,MOD760-3,Spanish Tutorial-3,"Dudurich, Jedi",M-202,2 (M: 2),Active,D1D4-US-F,0
+Upper School,MOD760-5,Spanish Tutorial-5,"Dudurich, Jedi",M-202,"2 (M: 1, F: 1)",Active,D2D5-US-I,0
+Upper School,DIS Lit in Translat,DIS Literature in Translation,"Holt, Stephen",M-202,1 (F: 1),Active,D6-US-I,0.25
+Upper School,ADV 12-6,US Advisory 12-6,"Holt, Stephen",M-202,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,HR 12-6,US Homeroom 12-6,"Holt, Stephen",M-202,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,Study Lab 9-9,Study Lab 9-9,"DiPasquale, Dan",M-202,"10 (M: 4, F: 6)",Active,D1-US-H,0
+Upper School,Study Lab 9-4,Study Lab 9-4,"Thacker, Samuel",M-202,"12 (M: 7, F: 5)",Active,D5-US-H,0
+Upper School,MOD410-1,French III-1,"McIlvain, Sam",M-202,"16 (M: 10, F: 6)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,MOD410-2,French III-2,"McIlvain, Sam",M-202,"14 (M: 7, F: 7)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,MOD610-1,French V-1,"McIlvain, Sam",M-202,"11 (M: 6, F: 5)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,MOD730-3,Spanish III-3,"Holt, Stephen",M-202,"11 (M: 3, F: 8)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,MOD730-4,Spanish III-4,"Dudurich, Jedi",M-202,"15 (M: 8, F: 7)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,MOD610-2,French V-2,"McIlvain, Sam",M-202,"9 (M: 5, F: 4)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,ENG431-1,Intro to Journalism,"Ragas, Meg",M-202,"10 (M: 4, F: 6)",Active,D3D8-US-H,0.25
+Upper School,MOD720-4,Spanish II-4,"Lopez, Jorge",M-206,"14 (M: 10, F: 4)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,MOD710-1,Spanish I-1,"Holt, Stephen",M-206,"14 (M: 7, F: 7)",Active,D2D4D5D7D8-US-G,0.5
+Upper School,MOD720-1,Spanish II-1,"Dudurich, Jedi",M-206,"12 (M: 5, F: 6, NB: 1)",Active,D1D3D4D6D8-US-C,0.5
+Upper School,MOD720-2,Spanish II-2,"Dudurich, Jedi",M-206,"12 (M: 11, F: 1)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,MOD720-3,Spanish II-3,"Lopez, Jorge",M-206,"18 (M: 8, F: 9, NB: 1)",Active,D2D3D5D6D8-US-E,0.5
+Upper School,MOD730-1,Spanish III-1,"Holt, Stephen",M-206,"16 (M: 11, F: 5)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,MOD730-2,Spanish III-2,"Holt, Stephen",M-206,"13 (M: 5, F: 8)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,ADV 9-4,US Advisory 9-4,"Dudurich, Jedi",M-206,"8 (M: 5, F: 3)",Active,M-Advsy,0
+Upper School,Study Lab 9-11,Study Lab 9-11,"Sheehan, Matt",M-206,"9 (M: 4, F: 5)",Active,D5-US-D,0
+Upper School,Lang Lab Span 2-1,Lang Lab Span 2-1,"Dudurich, Jedi",M-206,"12 (M: 6, F: 5, NB: 1)",Active,D4-US-I,0
+Upper School,Lang Lab Span 2-2,Lang Lab Span 2-2,"Dudurich, Jedi",M-206,"13 (M: 10, F: 3)",Active,D3-US-I,0
+Upper School,Lang Lab Span 2-3,Lang Lab Span 2-3,"Lopez, Jorge",M-206,"18 (M: 9, F: 8, NB: 1)",Active,D1-US-I,0
+Upper School,Lang Lab Span 2-4,Lang Lab Span 2-4,"Lopez, Jorge",M-206,"13 (M: 9, F: 4)",Active,D2-US-I,0
+Upper School,Lang Lab Spanish 1,Lang Lab Spanish 1,"Holt, Stephen",M-206,"14 (M: 7, F: 7)",Active,D5-US-I,0
+Upper School,HR 9-4,US Homeroom 9-4,"Dudurich, Jedi",M-206,"8 (M: 5, F: 3)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,MOD760-1,Spanish Tutorial-1,"Dudurich, Jedi",M-206,"2 (M: 1, F: 1)",Active,D1D7-US-D,0
+Upper School,ADV 12-8,US Advisory 12-8,"Porter, Eva",M-300,"9 (M: 6, F: 3)",Active,M-Advsy,0
+Upper School,HR 12-8,US Homeroom 12-8,"Porter, Eva",M-300,"9 (M: 6, F: 3)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,MUS350-1,Sight Singing,"Hess, Anne",M-300,2 (F: 2),Active,T:2:15 - 3:30,0.25
+Upper School,MUS910,Digital Music,"Hennessey, Shawn",M-303,"14 (M: 11, F: 3)",Active,D3D6-US-E,0.25
+Upper School,MUS610-1,Music Composition I,"Westerhaus, Andrew",M-303,"6 (M: 2, F: 4)",Active,D2D3D5D7-US-B,0.25
+Upper School,MUS710-1,Music Theory I,"Van Atta, Frank",M-303,"5 (M: 4, F: 1)",Active,D1D2D4D7-US-D,0.25
+Upper School,HR 11-5,US Homeroom 11-5,"Lu, Di",M-303,"8 (M: 3, F: 5)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,Russian 2/3(DIS Min),Russian 2/3 (DIS Minor),"Westerhaus, Andrew",M-303,"5 (M: 2, F: 3)",Active,T:2:15 - 3:30,0.25
+Upper School,Russian I (DIS Minor,Russian I (DIS Minor),"Westerhaus, Andrew",M-303,2 (F: 2),Active,"D4-US-A, D7-US-D",0.25
+Upper School,ADV 11-5,US Advisory 11-5,"Lu, Di",M-303,"8 (M: 3, F: 5)",Active,M-Advsy,0
+Upper School,MUS780-1,Fundamentals of Piano,"Van Atta, Frank",M-303,"13 (M: 5, F: 8)",Future,D2D8-US-G,0.25
+Upper School,MUS300-1,Songwriting,"Hennessey, Shawn",M-303,"10 (M: 3, F: 6, NB: 1)",Future,D5D6-US-H,0.25
+Upper School,MUS310-2,Critical Listening in Music-2,"Coyle, Chris",M-303,"10 (M: 6, F: 4)",Future,D3D6-US-C,0.25
+Upper School,DIS Choral Arranging,DIS Choral Arranging,"Westerhaus, Andrew",M-304,1 (M: 1),Active,D1D4-US-D,0.25
+Upper School,MUS790-2,Chamber Ensembles-2,"Harlos, Taia",M-304,"2 (M: 1, F: 1)",Active,D3D6-US-C,0.25
+Upper School,HR 11-4,US Homeroom 11-4,"Lee, Andrew",M-304,"8 (M: 6, F: 2)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 11-4,US Advisory 11-4,"Lee, Andrew",M-304,"8 (M: 6, F: 2)",Active,M-Advsy,0
+Upper School,HR 9-8,US Homeroom 9-8,"Li, Yi",M-306,"9 (M: 3, F: 6)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,MUS760,Instrumental Improvisation,"Coyle, Chris",M-306,"4 (M: 2, F: 2)",Active,D1D8-US-C,0.25
+Upper School,ADV 9-8,US Advisory 9-8,"Li, Yi",M-306,"9 (M: 3, F: 6)",Active,M-Advsy,0
+Upper School,MUS880-1,Jazz Ensembles-1,"Varhol, Hayley",M-306,"6 (M: 5, F: 1)",Active,D3D6-US-C,0.25
+Upper School,MUS880-2,Jazz Ensembles-2,"Coyle, Chris",M-306,6 (M: 6),Active,D3D8-US-B,0.25
+Upper School,MUS880-3,Jazz Ensembles-3,"Coyle, Chris",M-306,"8 (M: 6, F: 2)",Active,D1D5-US-D,0.25
+Upper School,MUS340-1,Music & Cultures (Sem),"Shiota, Miku",M-306,"12 (M: 3, F: 9)",Active,D5D8-US-H,0.25
+Upper School,MUS310-1,Critical Listening in Music-1,"Coyle, Chris",M-306,"10 (M: 7, F: 2, NB: 1)",Active,D4D7-US-G,0.25
+Upper School,ART310-3,Foundation of Art-3,"Santa, Caroline",M-307,"14 (M: 6, F: 8)",Active,D2D3D7-US-B,0.25
+Upper School,ART830-2,Color & Design-2,"Santa, Caroline",M-307,"6 (M: 3, F: 3)",Active,D2D4D6D7-US-A,0.25
+Upper School,ART840-1,Drawing & Painting-1,"Santa, Caroline",M-307,"4 (M: 1, F: 3)",Active,D2D3D5D8-US-E,0.25
+Upper School,ART840-2,Drawing & Painting-2,"Santa, Caroline",M-307,"3 (M: 1, F: 2)",Active,D2D4D5D7-US-G,0.25
+Upper School,ART840-3,Drawing & Painting-3,"Santa, Caroline",M-307,"7 (M: 1, F: 6)",Active,D1D3D6D7-US-F,0.25
+Upper School,ADV 11-9,US Advisory 11-9,"Santa, Caroline",M-307,"7 (M: 3, F: 4)",Active,M-Advsy,0
+Upper School,HR 11-9,US Homeroom 11-9,"Santa, Caroline",M-307,"7 (M: 3, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,DIS Intermed Paint,DIS Intermediate Painting,"Santa, Caroline",M-307,1 (F: 1),Active,"D1-US-I, D4D7-US-D",0.25
+Upper School,DIS Ceramics,DIS Ceramics,"Santa, Caroline",M-307,2 (F: 2),Active,"D5-US-G, D5-US-I, D8-US-G",0.25
+Upper School,Chorus M-314,Chorus M-314,None,M-314,0,Active,D3D6-US-C,0
+Upper School,HR 12-5,US Homeroom 12-5,"Harlos, Taia",M-314,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,ADV 12-5,US Advisory 12-5,"Harlos, Taia",M-314,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,MUS345-1,History & Impact of Hip-Hop,"Van Atta, Frank",M-314,"13 (M: 9, F: 4)",Active,D2D8-US-G,0.25
+Upper School,MUS720-1,Music Theory II,"Westerhaus, Andrew",M-314,"5 (M: 3, F: 2)",Active,D2D5D6D8-US-E,0.25
+Upper School,MUS800-1,Orchestra,"Harlos, Taia",M-314,"27 (M: 11, F: 16)",Active,"D2D5D8-US-B, D8-US-I",0.25
+Upper School,MUS790-1,Chamber Ensembles-1,"Harlos, Taia",M-314,"3 (M: 1, F: 2)",Active,D3D7-US-B,0.25
+Upper School,ART810-2,Sculpture-2,"Zwerling, Sarah",M-316,"8 (M: 2, F: 6)",Active,D1D2D4D7-US-D,0.25
+Upper School,ART810-3,Sculpture-3,"Zwerling, Sarah",M-316,"5 (M: 3, F: 2)",Active,D1D3D5D8-US-H,0.25
+Upper School,ART870,Mixed-Media Animation,"Zwerling, Sarah",M-316,"4 (M: 3, F: 1)",Active,D1D3D6D7-US-F,0.25
+Upper School,ART810-1,Sculpture-1,"Zwerling, Sarah",M-316,"9 (M: 4, F: 5)",Active,D1D4D6D7-US-A,0.25
+Upper School,ADV 11-12,US Advisory 11-12,"Zwerling, Sarah",M-316,"9 (M: 5, F: 4)",Active,M-Advsy,0
+Upper School,HR 11-12,US Homeroom 11-12,"Zwerling, Sarah",M-316,"9 (M: 5, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,DIS Major Art,DIS Major College-Level Art,"Zwerling, Sarah",M-316,1 (F: 1),Active,D1D4D8-US-C,0.5
+Upper School,Study Lab 9-7,Study Lab 9-7,"Culp, Megan",M-316,"11 (M: 8, F: 3)",Active,D2-US-E,0
+Upper School,ADV 9-5,US Advisory 9-5,"Gondi, June",Poley,"8 (M: 4, F: 4)",Active,M-Advsy,0
+Upper School,HR 9-5,US Homeroom 9-5,"Gondi, June",Poley,"8 (M: 4, F: 4)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,French Tutorial,French Tutorial,"DuSold, Olivia",Remote,0,Active,,0
+Upper School,DIS Late Antiquity,DIS Late Antiquity,"Preetam, Aaron",Remote,1 (F: 1),Active,"D1-US-D, D1-US-I, D5-US-D",0.25
+Upper School,DIS Barbershop,Barbershop (DIS Minor),"Van Atta, Frank",Remote,1 (M: 1),Active,D6-US-E,0
+Upper School,MOD815,Mandarin II,"Li, Yi",S-111,"10 (M: 6, F: 4)",Active,D2D3D5D7D8-US-B,0.5
+Upper School,MOD825,Mandarin III,"Li, Yi",S-111,"6 (M: 4, F: 2)",Active,D1D3D4D6D7-US-F,0.5
+Upper School,Lang Lab Mandarin II,Lang Lab Mandarin II,"Li, Yi",S-111,"10 (M: 6, F: 4)",Active,D3-US-I,0
+Upper School,Lang Lab Mandarin 1,Lang Lab Mandarin 1,"Zhao, Ivy",S-114,"4 (M: 2, F: 2)",Active,D7-US-I,0
+Upper School,MOD810-1,Mandarin I,"Zhao, Ivy",S-114,"4 (M: 2, F: 2)",Active,D1D2D4D5D7-US-D,0.5
+Upper School,MOD830-1,Mandarin IV & V,"Li, Yi",S-209,"3 (M: 2, F: 1)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,EQEDIT-1,EQ Editors,"Kappel, Sarah",S-209,"4 (M: 2, F: 2)",Active,D7-US-B,0
+Upper School,MOD835,Mandarin VI: Adv,"Li, Yi",S-209,2 (F: 2),Active,D1D3D5D6D8-US-H,0.5
+Upper School,DIS German C1,DIS German C1,"Kappel, Sarah",S-209,2 (M: 2),Active,D4D7-US-I,0
+Upper School,ENG410-1,English 10-1,"Gondi, June",S-220,"15 (M: 8, F: 7)",Active,D1D3D5D6D8-US-H,0.5
+Upper School,ENG310-4,English 9-4,"Gondi, June",S-220,"17 (M: 6, F: 11)",Active,D1D2D4D6D7-US-A,0.5
+Upper School,CLA310-1,Latin I,"Sawyer, Margaret",S-6,1 (M: 1),Active,"D1D3D4-US-C, D6-U-Lnch, D8-US-C",0.5
+Upper School,MUS940-1,World Percussion Ensemble,"Hennessey, Shawn",Yarnall,"2 (M: 1, F: 1)",Active,D2D7-US-G,0.25
+Upper School,Citi Wed,Citizen Wednesdays,"Adams, Zarah",Yarnall,0,Active,,0
+Upper School,THT725-8,Ninth Grade Theatre-8,"Miller, Jake",Yarnall,"14 (M: 9, F: 5)",Future,D1D3D6-US-H,0.25
+Upper School,V Lacrosse G,Varsity Lacrosse - Girls,"Bergstrom Mark, Katie",Field House,38 (F: 38),Future,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,MUS320-2,Musical Instrument Building-2,"Westerhaus, Andrew",Morris Gym,"4 (M: 2, F: 1, NB: 1)",Future,D2D5D8-US-G,0.25
+Upper School,DIS Master Tech Thea,DIS Mastering Tech Theatre,"Tvarok, April",Morris Gym,4 (F: 4),Active,D1D5-US-D,0.25
+Upper School,THT700-1,Technical Theatre-1,"Tvarok, April",Morris Gym,"5 (M: 4, F: 1)",Active,D1D6-US-H,0.25
+Upper School,THT765-1,Technical Theatre II,"Tvarok, April",Morris Gym,"5 (M: 4, F: 1)",Active,D3D8-US-C,0.25
+Upper School,ART880-1,Creative Furniture Making-1,"Fuld, Rachel",Morris Gym,"7 (M: 5, F: 2)",Active,D3D5D8-US-H,0.25
+Upper School,ART880-2,Creative Furniture Making-2,"Fuld, Rachel",Morris Gym,"8 (M: 4, F: 4)",Active,D2D5D8-US-E,0.25
+Upper School,PE672,Personal Fitness (Winter),"Myran, Tom",Scattergood Gym,"5 (M: 1, F: 4)",Active,D1D2D5-US-D,0
+Upper School,PE300-3,PE 9 Foundations-3F,"Sheehan, Matt",Scattergood Gym,"17 (M: 7, F: 8, NB: 2)",Active,D2D5D8-US-G,0.25
+Upper School,PE300-4,PE 9 Foundations-4F,"Sheehan, Matt",Scattergood Gym,"16 (M: 10, F: 6)",Active,D1D3D6-US-H,0.25
+Upper School,PE300-1,PE 9 Foundations-1F,"Sheehan, Matt",Scattergood Gym,"10 (M: 8, F: 2)",Active,D1D4D8-US-C,0.25
+Upper School,PE300-2,PE 9 Foundations-2F,"Sheehan, Matt",Scattergood Gym,"18 (M: 9, F: 9)",Active,D1D4D7-US-F,0.25
+Upper School,PE750-1,Winter in the Wissahickon/Table Tennis,"Myran, Tom",Scattergood Gym,"11 (M: 3, F: 8)",Active,D4D7-US-D,0
+Upper School,PE755-1,Volleyball/Table Tennis (Winter),"Myran, Tom",Scattergood Gym,"12 (M: 8, F: 4)",Active,D6D7-US-F,0
+Upper School,PE300-5,PE 9 Foundations-5S,"Sheehan, Matt",Scattergood Gym,"11 (M: 4, F: 7)",Future,D1D4D8-US-C,0.25
+Upper School,PE300-8,PE 9 Foundations-8S,"Sheehan, Matt",Scattergood Gym,"12 (M: 6, F: 6)",Future,D1D3D6-US-H,0.25
+Upper School,PE300-6,PE 9 Foundations-6S,"Sheehan, Matt",Scattergood Gym,"16 (M: 6, F: 10)",Future,D1D4D7-US-F,0.25
+Upper School,PE300-7,PE 9 Foundations-7S,"Sheehan, Matt",Scattergood Gym,"15 (M: 8, F: 7)",Future,D2D5D8-US-G,0.25
+Upper School,PE760-1,Frisbee-Spring,"Myran, Tom",Scattergood Gym,4 (M: 4),Future,D4D7-US-D,0
+Upper School,PE770-1,Advanced Archery (Spring),"Myran, Tom",Scattergood Gym,"8 (M: 7, F: 1)",Future,D6D7-US-F,0
+Upper School,PE674,Personal Fitness (Spring),"Myran, Tom",Scattergood Gym,1 (F: 1),Future,D1D2D5-US-D,0
+Upper School,PE780,Wissahickon Hiking (Spring),"Myran, Tom",Scattergood Gym,2 (M: 2),Future,D3D4-US-F,0
+Upper School,V Wrestling,Varsity Wrestling - Coed,"Hammond, Paul",Smith Gym,"14 (M: 13, F: 1)",Active,D1D2D3D4D5D6D7D8-U-Ath,0
+Upper School,ADV 11-8,US Advisory 11-8,"Miller, Jake",Loeb - Front Lobby,"7 (M: 4, F: 3)",Active,M-Advsy,0
+Upper School,HR 11-8,US Homeroom 11-8,"Miller, Jake",Loeb - Front Lobby,"7 (M: 4, F: 3)",Active,D1D2D3D4D5D6D7D8-USHome,0
+Upper School,Core 9 Mtg,9th Grade Core Mtg,"Bradburd, Rachel",Stokes,0,Active,,0
